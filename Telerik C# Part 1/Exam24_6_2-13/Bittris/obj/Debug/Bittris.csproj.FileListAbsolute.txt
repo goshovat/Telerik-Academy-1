@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\Bittris\bin\Debug\Bittris.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\Bittris\bin\Debug\Bittris.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\Bittris\bin\Debug\Bittris.pdb
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\Bittris\obj\Debug\Bittris.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\Bittris\obj\Debug\Bittris.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\Bittris\obj\Debug\Bittris.pdb

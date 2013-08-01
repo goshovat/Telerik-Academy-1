@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.exe.config
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.exe
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.pdb
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.exe
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.pdb
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.csprojResolveAssemblyReference.cache

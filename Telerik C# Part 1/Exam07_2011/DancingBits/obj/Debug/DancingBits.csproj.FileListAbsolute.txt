@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\DancingBits\bin\Debug\DancingBits.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\DancingBits\bin\Debug\DancingBits.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\DancingBits\bin\Debug\DancingBits.pdb
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\DancingBits\obj\Debug\DancingBits.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\DancingBits\obj\Debug\DancingBits.pdb

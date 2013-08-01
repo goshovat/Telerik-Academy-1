@@ -1,0 +1,12 @@
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe.config
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.pdb
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.csprojResolveAssemblyReference.cache

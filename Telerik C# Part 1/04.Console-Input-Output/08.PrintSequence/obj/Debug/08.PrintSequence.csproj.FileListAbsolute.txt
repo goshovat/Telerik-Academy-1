@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\08.PrintSequence\bin\Debug\08.PrintSequence.exe.config
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\08.PrintSequence\bin\Debug\08.PrintSequence.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\08.PrintSequence\bin\Debug\08.PrintSequence.pdb
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\08.PrintSequence\obj\Debug\08.PrintSequence.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\08.PrintSequence\obj\Debug\08.PrintSequence.pdb

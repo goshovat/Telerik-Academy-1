@@ -1,0 +1,9 @@
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\01.IntArray\bin\Debug\01.IntArray.exe.config
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\01.IntArray\bin\Debug\01.IntArray.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\01.IntArray\bin\Debug\01.IntArray.pdb
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\01.IntArray\obj\Debug\01.IntArray.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\01.IntArray\obj\Debug\01.IntArray.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\01.IntArray\obj\Debug\01.IntArray.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\01.IntArray\bin\Debug\01.IntArray.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\01.IntArray\obj\Debug\01.IntArray.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\01.IntArray\obj\Debug\01.IntArray.pdb

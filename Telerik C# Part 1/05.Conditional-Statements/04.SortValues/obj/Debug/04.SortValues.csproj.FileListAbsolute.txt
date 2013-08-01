@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\04.SortValues\bin\Debug\04.SortValues.exe.config
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\04.SortValues\bin\Debug\04.SortValues.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\04.SortValues\bin\Debug\04.SortValues.pdb
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\04.SortValues\obj\Debug\04.SortValues.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\04.SortValues\obj\Debug\04.SortValues.pdb

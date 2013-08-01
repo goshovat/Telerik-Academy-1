@@ -1,0 +1,14 @@
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\06.FirstBiggerThanNeighbors\bin\Debug\06.FirstBiggerThanNeighbors.exe.config
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\06.FirstBiggerThanNeighbors\bin\Debug\06.FirstBiggerThanNeighbors.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\06.FirstBiggerThanNeighbors\bin\Debug\06.FirstBiggerThanNeighbors.pdb
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\06.FirstBiggerThanNeighbors\obj\Debug\06.FirstBiggerThanNeighbors.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\06.FirstBiggerThanNeighbors\obj\Debug\06.FirstBiggerThanNeighbors.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\06.FirstBiggerThanNeighbors\obj\Debug\06.FirstBiggerThanNeighbors.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\06.FirstBiggerThanNeighbors\bin\Debug\06.FirstBiggerThanNeighbors.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\06.FirstBiggerThanNeighbors\obj\Debug\06.FirstBiggerThanNeighbors.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\06.FirstBiggerThanNeighbors\obj\Debug\06.FirstBiggerThanNeighbors.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\06.FirstBiggerThanNeighbors\bin\Debug\06.FirstBiggerThanNeighbors.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\06.FirstBiggerThanNeighbors\bin\Debug\06.FirstBiggerThanNeighbors.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\06.FirstBiggerThanNeighbors\obj\Debug\06.FirstBiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\06.FirstBiggerThanNeighbors\bin\Debug\05.BiggerThanNeighbors.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\06.FirstBiggerThanNeighbors\bin\Debug\05.BiggerThanNeighbors.pdb

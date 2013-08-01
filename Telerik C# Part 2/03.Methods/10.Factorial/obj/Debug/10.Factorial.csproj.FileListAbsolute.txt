@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\10.Factorial\bin\Debug\10.Factorial.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\10.Factorial\obj\Debug\10.Factorial.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\10.Factorial\bin\Debug\10.Factorial.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\10.Factorial\bin\Debug\10.Factorial.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\10.Factorial\obj\Debug\10.Factorial.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\10.Factorial\obj\Debug\10.Factorial.pdb

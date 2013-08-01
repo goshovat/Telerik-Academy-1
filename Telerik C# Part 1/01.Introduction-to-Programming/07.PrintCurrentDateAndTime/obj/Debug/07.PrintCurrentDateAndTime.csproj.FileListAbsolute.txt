@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Introduction-to-Programming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.exe.config
+D:\Documents\Projects C#\Introduction-to-Programming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.exe
+D:\Documents\Projects C#\Introduction-to-Programming\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.pdb
+D:\Documents\Projects C#\Introduction-to-Programming\07.PrintCurrentDateAndTime\obj\Debug\07.PrintCurrentDateAndTime.exe
+D:\Documents\Projects C#\Introduction-to-Programming\07.PrintCurrentDateAndTime\obj\Debug\07.PrintCurrentDateAndTime.pdb

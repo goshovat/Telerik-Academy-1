@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\SampleExam\Subset\bin\Debug\Subset.exe.config
+D:\Documents\Projects C#\Telerik C# - I\SampleExam\Subset\bin\Debug\Subset.exe
+D:\Documents\Projects C#\Telerik C# - I\SampleExam\Subset\bin\Debug\Subset.pdb
+D:\Documents\Projects C#\Telerik C# - I\SampleExam\Subset\obj\Debug\Subset.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\SampleExam\Subset\obj\Debug\Subset.exe
+D:\Documents\Projects C#\Telerik C# - I\SampleExam\Subset\obj\Debug\Subset.pdb

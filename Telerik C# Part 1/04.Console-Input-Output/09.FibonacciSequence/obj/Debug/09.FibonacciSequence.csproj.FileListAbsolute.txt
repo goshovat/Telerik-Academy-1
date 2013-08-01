@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\09.FibonacciSequence\bin\Debug\09.FibonacciSequence.exe.config
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\09.FibonacciSequence\bin\Debug\09.FibonacciSequence.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\09.FibonacciSequence\bin\Debug\09.FibonacciSequence.pdb
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\09.FibonacciSequence\obj\Debug\09.FibonacciSequence.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\09.FibonacciSequence\obj\Debug\09.FibonacciSequence.pdb

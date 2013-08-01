@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\02.MaximalSumOfElements\bin\Debug\02.MaximalSumOfElements.exe.config
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\02.MaximalSumOfElements\bin\Debug\02.MaximalSumOfElements.exe
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\02.MaximalSumOfElements\bin\Debug\02.MaximalSumOfElements.pdb
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\02.MaximalSumOfElements\obj\Debug\02.MaximalSumOfElements.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\02.MaximalSumOfElements\obj\Debug\02.MaximalSumOfElements.exe
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\02.MaximalSumOfElements\obj\Debug\02.MaximalSumOfElements.pdb

@@ -1,0 +1,10 @@
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\04.NumberCounter\bin\Debug\04.NumberCounter.exe.config
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\04.NumberCounter\bin\Debug\04.NumberCounter.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\04.NumberCounter\bin\Debug\04.NumberCounter.pdb
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\04.NumberCounter\obj\Debug\04.NumberCounter.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\04.NumberCounter\obj\Debug\04.NumberCounter.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\04.NumberCounter\bin\Debug\04.NumberCounter.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\04.NumberCounter\obj\Debug\04.NumberCounter.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\04.NumberCounter\obj\Debug\04.NumberCounter.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\04.NumberCounter\bin\Debug\04.NumberCounter.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\04.NumberCounter\bin\Debug\04.NumberCounter.pdb

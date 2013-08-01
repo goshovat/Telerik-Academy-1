@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\04.CalculateN!DividedByK!\bin\Debug\04.CalculateN!DividedByK!.exe.config
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\04.CalculateN!DividedByK!\bin\Debug\04.CalculateN!DividedByK!.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\04.CalculateN!DividedByK!\bin\Debug\04.CalculateN!DividedByK!.pdb
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\04.CalculateN!DividedByK!\obj\Debug\04.CalculateN!DividedByK!.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\04.CalculateN!DividedByK!\obj\Debug\04.CalculateN!DividedByK!.pdb

@@ -1,0 +1,11 @@
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.exe.config
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.pdb
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\05.IncreasingSequence\bin\Debug\05.IncreasingSequence.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\05.IncreasingSequence\obj\Debug\05.IncreasingSequence.csprojResolveAssemblyReference.cache

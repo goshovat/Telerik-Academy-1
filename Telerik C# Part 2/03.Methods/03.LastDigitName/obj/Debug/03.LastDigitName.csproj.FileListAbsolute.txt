@@ -1,0 +1,10 @@
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\03.LastDigitName\bin\Debug\03.LastDigitName.exe.config
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\03.LastDigitName\bin\Debug\03.LastDigitName.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\03.LastDigitName\bin\Debug\03.LastDigitName.pdb
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\03.LastDigitName\obj\Debug\03.LastDigitName.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\03.LastDigitName\obj\Debug\03.LastDigitName.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\03.LastDigitName\bin\Debug\03.LastDigitName.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\03.LastDigitName\obj\Debug\03.LastDigitName.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\03.LastDigitName\obj\Debug\03.LastDigitName.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\03.LastDigitName\bin\Debug\03.LastDigitName.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\03.LastDigitName\bin\Debug\03.LastDigitName.pdb

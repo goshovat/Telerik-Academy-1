@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.pdb

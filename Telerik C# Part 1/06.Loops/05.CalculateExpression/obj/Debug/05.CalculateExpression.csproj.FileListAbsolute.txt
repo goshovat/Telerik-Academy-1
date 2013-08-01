@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\05.CalculateExpression\bin\Debug\05.CalculateExpression.exe.config
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\05.CalculateExpression\bin\Debug\05.CalculateExpression.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\05.CalculateExpression\bin\Debug\05.CalculateExpression.pdb
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\05.CalculateExpression\obj\Debug\05.CalculateExpression.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\05.CalculateExpression\obj\Debug\05.CalculateExpression.pdb

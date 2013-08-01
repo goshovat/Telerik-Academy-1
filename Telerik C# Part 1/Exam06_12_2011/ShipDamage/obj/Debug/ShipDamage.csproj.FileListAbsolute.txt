@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\Exam06_12_2011\ShipDamage\bin\Debug\ShipDamage.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Exam06_12_2011\ShipDamage\bin\Debug\ShipDamage.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam06_12_2011\ShipDamage\bin\Debug\ShipDamage.pdb
+D:\Documents\Projects C#\Telerik C# - I\Exam06_12_2011\ShipDamage\obj\Debug\ShipDamage.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\Exam06_12_2011\ShipDamage\obj\Debug\ShipDamage.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam06_12_2011\ShipDamage\obj\Debug\ShipDamage.pdb

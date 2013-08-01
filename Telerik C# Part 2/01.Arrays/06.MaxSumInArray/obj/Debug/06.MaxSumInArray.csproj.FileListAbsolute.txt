@@ -1,0 +1,12 @@
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\06.MaxSumInArray\bin\Debug\06.MaxSumInArray.exe.config
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\06.MaxSumInArray\bin\Debug\06.MaxSumInArray.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\06.MaxSumInArray\bin\Debug\06.MaxSumInArray.pdb
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\06.MaxSumInArray\obj\Debug\06.MaxSumInArray.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\06.MaxSumInArray\obj\Debug\06.MaxSumInArray.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\06.MaxSumInArray\obj\Debug\06.MaxSumInArray.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\06.MaxSumInArray\bin\Debug\06.MaxSumInArray.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\06.MaxSumInArray\obj\Debug\06.MaxSumInArray.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\06.MaxSumInArray\obj\Debug\06.MaxSumInArray.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\06.MaxSumInArray\bin\Debug\06.MaxSumInArray.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\06.MaxSumInArray\bin\Debug\06.MaxSumInArray.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\06.MaxSumInArray\obj\Debug\06.MaxSumInArray.csprojResolveAssemblyReference.cache

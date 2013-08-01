@@ -1,0 +1,9 @@
+D:\Documents\Projects C#\Introduction-to-Programming\06.PrintMyName\bin\Debug\06.PrintMyName.exe.config
+D:\Documents\Projects C#\Introduction-to-Programming\06.PrintMyName\bin\Debug\06.PrintMyName.exe
+D:\Documents\Projects C#\Introduction-to-Programming\06.PrintMyName\bin\Debug\06.PrintMyName.pdb
+D:\Documents\Projects C#\Introduction-to-Programming\06.PrintMyName\obj\Debug\06.PrintMyName.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Introduction-to-Programming\06.PrintMyName\obj\Debug\06.PrintMyName.exe
+D:\Documents\Projects C#\Introduction-to-Programming\06.PrintMyName\obj\Debug\06.PrintMyName.pdb
+D:\Documents\Projects C#\Telerik C# - I\Introduction-to-Programming\06.PrintMyName\bin\Debug\06.PrintMyName.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Introduction-to-Programming\06.PrintMyName\obj\Debug\06.PrintMyName.exe
+D:\Documents\Projects C#\Telerik C# - I\Introduction-to-Programming\06.PrintMyName\obj\Debug\06.PrintMyName.pdb

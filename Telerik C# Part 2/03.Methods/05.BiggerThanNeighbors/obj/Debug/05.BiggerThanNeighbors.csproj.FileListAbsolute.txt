@@ -1,0 +1,10 @@
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanNeighbors\bin\Debug\05.BiggerThanNeighbors.exe.config
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanNeighbors\bin\Debug\05.BiggerThanNeighbors.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanNeighbors\bin\Debug\05.BiggerThanNeighbors.pdb
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanNeighbors\obj\Debug\05.BiggerThanNeighbors.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanNeighbors\obj\Debug\05.BiggerThanNeighbors.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\05.BiggerThanNeighbors\bin\Debug\05.BiggerThanNeighbors.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\05.BiggerThanNeighbors\obj\Debug\05.BiggerThanNeighbors.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\05.BiggerThanNeighbors\obj\Debug\05.BiggerThanNeighbors.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\05.BiggerThanNeighbors\bin\Debug\05.BiggerThanNeighbors.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\05.BiggerThanNeighbors\bin\Debug\05.BiggerThanNeighbors.pdb

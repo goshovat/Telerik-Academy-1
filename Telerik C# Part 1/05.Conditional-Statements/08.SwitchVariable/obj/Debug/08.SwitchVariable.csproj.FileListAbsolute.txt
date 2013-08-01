@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\08.SwitchVariable\bin\Debug\08.SwitchVariable.exe.config
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\08.SwitchVariable\bin\Debug\08.SwitchVariable.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\08.SwitchVariable\bin\Debug\08.SwitchVariable.pdb
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\08.SwitchVariable\obj\Debug\08.SwitchVariable.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\08.SwitchVariable\obj\Debug\08.SwitchVariable.pdb

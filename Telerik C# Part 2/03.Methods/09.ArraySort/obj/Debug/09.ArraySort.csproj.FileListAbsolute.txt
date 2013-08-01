@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\09.ArraySort\bin\Debug\09.ArraySort.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\09.ArraySort\bin\Debug\09.ArraySort.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\09.ArraySort\bin\Debug\09.ArraySort.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\09.ArraySort\obj\Debug\09.ArraySort.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\09.ArraySort\obj\Debug\09.ArraySort.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\09.ArraySort\obj\Debug\09.ArraySort.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\MathExpression\bin\Debug\MathExpression.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\MathExpression\bin\Debug\MathExpression.exe
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\MathExpression\bin\Debug\MathExpression.pdb
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\MathExpression\obj\Debug\MathExpression.exe
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\MathExpression\obj\Debug\MathExpression.pdb

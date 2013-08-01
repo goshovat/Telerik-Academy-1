@@ -1,0 +1,10 @@
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise12\bin\Debug\Exercise12.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise12\bin\Debug\Exercise12.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise12\bin\Debug\Exercise12.pdb
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise12\obj\Debug\Exercise12.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise12\obj\Debug\Exercise12.pdb
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise12\bin\Debug\Exercise12.exe.config
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise12\obj\Debug\Exercise12.exe
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise12\obj\Debug\Exercise12.pdb
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise12\bin\Debug\Exercise12.exe
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise12\bin\Debug\Exercise12.pdb

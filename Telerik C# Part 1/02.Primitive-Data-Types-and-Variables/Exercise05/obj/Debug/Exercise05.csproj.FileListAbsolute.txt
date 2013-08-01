@@ -1,0 +1,8 @@
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise05\bin\Debug\Exercise05.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise05\bin\Debug\Exercise05.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise05\bin\Debug\Exercise05.pdb
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise05\obj\Debug\Exercise05.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise05\obj\Debug\Exercise05.pdb
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise05\bin\Debug\Exercise05.exe.config
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise05\obj\Debug\Exercise05.exe
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise05\obj\Debug\Exercise05.pdb

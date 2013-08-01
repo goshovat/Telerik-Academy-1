@@ -1,0 +1,9 @@
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\14.PrintSequenceInSpiral\bin\Debug\14.PrintSequenceInSpiral.exe.config
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\14.PrintSequenceInSpiral\bin\Debug\14.PrintSequenceInSpiral.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\14.PrintSequenceInSpiral\bin\Debug\14.PrintSequenceInSpiral.pdb
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\14.PrintSequenceInSpiral\obj\Debug\14.PrintSequenceInSpiral.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\14.PrintSequenceInSpiral\obj\Debug\14.PrintSequenceInSpiral.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\14.PrintSequenceInSpiral\obj\Debug\14.PrintSequenceInSpiral.pdb
+D:\Documents\Projects C#\Telerik C# - 1\06.Loops\14.PrintSequenceInSpiral\bin\Debug\14.PrintSequenceInSpiral.exe.config
+D:\Documents\Projects C#\Telerik C# - 1\06.Loops\14.PrintSequenceInSpiral\obj\Debug\14.PrintSequenceInSpiral.exe
+D:\Documents\Projects C#\Telerik C# - 1\06.Loops\14.PrintSequenceInSpiral\obj\Debug\14.PrintSequenceInSpiral.pdb

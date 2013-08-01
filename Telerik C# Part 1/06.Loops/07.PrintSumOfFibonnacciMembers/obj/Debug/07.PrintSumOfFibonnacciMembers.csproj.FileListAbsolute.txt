@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\07.PrintSumOfFibonnacciMembers\bin\Debug\07.PrintSumOfFibonnacciMembers.exe.config
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\07.PrintSumOfFibonnacciMembers\bin\Debug\07.PrintSumOfFibonnacciMembers.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\07.PrintSumOfFibonnacciMembers\bin\Debug\07.PrintSumOfFibonnacciMembers.pdb
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\07.PrintSumOfFibonnacciMembers\obj\Debug\07.PrintSumOfFibonnacciMembers.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\07.PrintSumOfFibonnacciMembers\obj\Debug\07.PrintSumOfFibonnacciMembers.pdb

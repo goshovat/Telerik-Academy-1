@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\Trapezoid\bin\Debug\Trapezoid.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\Trapezoid\bin\Debug\Trapezoid.exe
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\Trapezoid\bin\Debug\Trapezoid.pdb
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\Trapezoid\obj\Debug\Trapezoid.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\Trapezoid\obj\Debug\Trapezoid.exe
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\Trapezoid\obj\Debug\Trapezoid.pdb

@@ -1,0 +1,12 @@
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\04.SequenceOfEqualsElements\bin\Debug\04.SequenceOfEqualsElements.exe.config
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\04.SequenceOfEqualsElements\bin\Debug\04.SequenceOfEqualsElements.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\04.SequenceOfEqualsElements\bin\Debug\04.SequenceOfEqualsElements.pdb
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\04.SequenceOfEqualsElements\obj\Debug\04.SequenceOfEqualsElements.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\04.SequenceOfEqualsElements\obj\Debug\04.SequenceOfEqualsElements.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\04.SequenceOfEqualsElements\obj\Debug\04.SequenceOfEqualsElements.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\04.SequenceOfEqualsElements\bin\Debug\04.SequenceOfEqualsElements.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\04.SequenceOfEqualsElements\obj\Debug\04.SequenceOfEqualsElements.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\04.SequenceOfEqualsElements\obj\Debug\04.SequenceOfEqualsElements.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\04.SequenceOfEqualsElements\bin\Debug\04.SequenceOfEqualsElements.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\04.SequenceOfEqualsElements\bin\Debug\04.SequenceOfEqualsElements.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\04.SequenceOfEqualsElements\obj\Debug\04.SequenceOfEqualsElements.csprojResolveAssemblyReference.cache

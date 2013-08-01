@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\05.DigitName\bin\Debug\05.DigitName.exe.config
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\05.DigitName\bin\Debug\05.DigitName.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\05.DigitName\bin\Debug\05.DigitName.pdb
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\05.DigitName\obj\Debug\05.DigitName.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\05.DigitName\obj\Debug\05.DigitName.pdb

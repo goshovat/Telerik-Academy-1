@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\06.QuadraticEquationRoots\bin\Debug\06.QuadraticEquationRoots.exe.config
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\06.QuadraticEquationRoots\bin\Debug\06.QuadraticEquationRoots.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\06.QuadraticEquationRoots\bin\Debug\06.QuadraticEquationRoots.pdb
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\06.QuadraticEquationRoots\obj\Debug\06.QuadraticEquationRoots.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\06.QuadraticEquationRoots\obj\Debug\06.QuadraticEquationRoots.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\06.QuadraticEquationRoots\obj\Debug\06.QuadraticEquationRoots.pdb

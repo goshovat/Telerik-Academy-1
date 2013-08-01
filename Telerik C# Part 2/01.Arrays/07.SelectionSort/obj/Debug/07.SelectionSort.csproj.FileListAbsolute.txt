@@ -1,0 +1,12 @@
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+D:\Documents\Projects C#\Telerik C# - II\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\10.N-thCatalanNumber\bin\Debug\10.N-thCatalanNumber.exe.config
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\10.N-thCatalanNumber\bin\Debug\10.N-thCatalanNumber.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\10.N-thCatalanNumber\bin\Debug\10.N-thCatalanNumber.pdb
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\10.N-thCatalanNumber\obj\Debug\10.N-thCatalanNumber.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\10.N-thCatalanNumber\obj\Debug\10.N-thCatalanNumber.pdb

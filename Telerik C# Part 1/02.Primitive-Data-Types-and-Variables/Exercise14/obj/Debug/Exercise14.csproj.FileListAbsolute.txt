@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise14\bin\Debug\Exercise14.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise14\bin\Debug\Exercise14.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise14\bin\Debug\Exercise14.pdb
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise14\obj\Debug\Exercise14.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise14\obj\Debug\Exercise14.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise14\obj\Debug\Exercise14.pdb

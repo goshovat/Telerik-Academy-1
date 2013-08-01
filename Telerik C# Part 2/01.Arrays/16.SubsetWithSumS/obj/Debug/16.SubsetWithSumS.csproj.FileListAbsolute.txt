@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.pdb

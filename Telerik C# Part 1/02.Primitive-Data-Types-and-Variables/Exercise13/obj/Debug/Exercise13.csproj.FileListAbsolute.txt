@@ -1,0 +1,11 @@
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise13\bin\Debug\Exercise13.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise13\bin\Debug\Exercise13.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise13\bin\Debug\Exercise13.pdb
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise13\obj\Debug\Exercise13.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise13\obj\Debug\Exercise13.pdb
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise13\bin\Debug\Exercise13.exe.config
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise13\obj\Debug\Exercise13.exe
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise13\obj\Debug\Exercise13.pdb
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise13\bin\Debug\Exercise13.exe
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise13\bin\Debug\Exercise13.pdb
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise13\obj\Debug\Exercise13.csprojResolveAssemblyReference.cache

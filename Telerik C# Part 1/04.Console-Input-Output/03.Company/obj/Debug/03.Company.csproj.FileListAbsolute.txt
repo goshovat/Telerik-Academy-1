@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\03.Company\bin\Debug\03.Company.exe.config
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\03.Company\bin\Debug\03.Company.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\03.Company\bin\Debug\03.Company.pdb
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\03.Company\obj\Debug\03.Company.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\03.Company\obj\Debug\03.Company.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\03.Company\obj\Debug\03.Company.pdb

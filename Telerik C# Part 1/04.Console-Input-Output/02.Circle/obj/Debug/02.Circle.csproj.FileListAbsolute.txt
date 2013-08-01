@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\02.Circle\bin\Debug\02.Circle.exe.config
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\02.Circle\bin\Debug\02.Circle.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\02.Circle\bin\Debug\02.Circle.pdb
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\02.Circle\obj\Debug\02.Circle.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\02.Circle\obj\Debug\02.Circle.pdb

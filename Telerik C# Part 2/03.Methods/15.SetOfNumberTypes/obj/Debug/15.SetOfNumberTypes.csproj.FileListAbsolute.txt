@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\15.SetOfNumberTypes\bin\Debug\15.SetOfNumberTypes.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\15.SetOfNumberTypes\bin\Debug\15.SetOfNumberTypes.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\15.SetOfNumberTypes\bin\Debug\15.SetOfNumberTypes.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\15.SetOfNumberTypes\obj\Debug\15.SetOfNumberTypes.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\15.SetOfNumberTypes\obj\Debug\15.SetOfNumberTypes.pdb

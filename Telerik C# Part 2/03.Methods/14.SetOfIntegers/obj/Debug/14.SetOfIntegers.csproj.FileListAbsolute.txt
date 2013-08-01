@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\14.SetOfIntegers\bin\Debug\14.SetOfIntegers.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\14.SetOfIntegers\bin\Debug\14.SetOfIntegers.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\14.SetOfIntegers\bin\Debug\14.SetOfIntegers.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\14.SetOfIntegers\obj\Debug\14.SetOfIntegers.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\14.SetOfIntegers\obj\Debug\14.SetOfIntegers.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\14.SetOfIntegers\obj\Debug\14.SetOfIntegers.csprojResolveAssemblyReference.cache

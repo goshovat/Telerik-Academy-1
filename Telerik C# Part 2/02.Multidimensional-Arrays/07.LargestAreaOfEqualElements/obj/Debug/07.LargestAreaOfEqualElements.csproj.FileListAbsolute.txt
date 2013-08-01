@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\07.LargestAreaOfEqualElements\bin\Debug\07.LargestAreaOfEqualElements.exe.config
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\07.LargestAreaOfEqualElements\bin\Debug\07.LargestAreaOfEqualElements.exe
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\07.LargestAreaOfEqualElements\bin\Debug\07.LargestAreaOfEqualElements.pdb
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\07.LargestAreaOfEqualElements\obj\Debug\07.LargestAreaOfEqualElements.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\07.LargestAreaOfEqualElements\obj\Debug\07.LargestAreaOfEqualElements.exe
+D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\07.LargestAreaOfEqualElements\obj\Debug\07.LargestAreaOfEqualElements.pdb

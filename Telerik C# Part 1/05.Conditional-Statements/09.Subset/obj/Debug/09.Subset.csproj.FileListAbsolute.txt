@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\09.Subset\bin\Debug\09.Subset.exe.config
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\09.Subset\bin\Debug\09.Subset.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\09.Subset\bin\Debug\09.Subset.pdb
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\09.Subset\obj\Debug\09.Subset.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\09.Subset\obj\Debug\09.Subset.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\09.Subset\obj\Debug\09.Subset.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\11.PrintAllCards\bin\Debug\11.PrintAllCards.exe.config
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\11.PrintAllCards\bin\Debug\11.PrintAllCards.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\11.PrintAllCards\bin\Debug\11.PrintAllCards.pdb
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\11.PrintAllCards\obj\Debug\11.PrintAllCards.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\11.PrintAllCards\obj\Debug\11.PrintAllCards.pdb
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\11.PrintAllCards\obj\Debug\11.PrintAllCards.csprojResolveAssemblyReference.cache

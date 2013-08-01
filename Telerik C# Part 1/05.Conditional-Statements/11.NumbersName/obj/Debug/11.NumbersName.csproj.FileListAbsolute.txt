@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\11.NumbersName\bin\Debug\11.NumbersName.exe.config
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\11.NumbersName\bin\Debug\11.NumbersName.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\11.NumbersName\bin\Debug\11.NumbersName.pdb
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\11.NumbersName\obj\Debug\11.NumbersName.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\11.NumbersName\obj\Debug\11.NumbersName.exe
+D:\Documents\Projects C#\Telerik C# - I\05.Conditional-Statements\11.NumbersName\obj\Debug\11.NumbersName.pdb

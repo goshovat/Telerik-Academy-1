@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise12\bin\Debug\Exercise12.exe.config
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise12\bin\Debug\Exercise12.exe
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise12\bin\Debug\Exercise12.pdb
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise12\obj\Debug\Exercise12.exe
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise12\obj\Debug\Exercise12.pdb
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise12\obj\Debug\Exercise12.csprojResolveAssemblyReference.cache

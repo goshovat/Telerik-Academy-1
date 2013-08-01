@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise04\bin\Debug\Exercise04.exe.config
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise04\bin\Debug\Exercise04.exe
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise04\bin\Debug\Exercise04.pdb
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise04\obj\Debug\Exercise04.exe
+D:\Documents\Projects C#\Telerik C# - I\03.Operators-Expressions-and-Statements\Exercise04\obj\Debug\Exercise04.pdb

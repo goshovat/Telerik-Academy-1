@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Introduction-to-Programming\08.PrintTheSquareOf12345\bin\Debug\08.PrintTheSquareOf12345.exe.config
+D:\Documents\Projects C#\Introduction-to-Programming\08.PrintTheSquareOf12345\bin\Debug\08.PrintTheSquareOf12345.exe
+D:\Documents\Projects C#\Introduction-to-Programming\08.PrintTheSquareOf12345\bin\Debug\08.PrintTheSquareOf12345.pdb
+D:\Documents\Projects C#\Introduction-to-Programming\08.PrintTheSquareOf12345\obj\Debug\08.PrintTheSquareOf12345.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Introduction-to-Programming\08.PrintTheSquareOf12345\obj\Debug\08.PrintTheSquareOf12345.exe
+D:\Documents\Projects C#\Introduction-to-Programming\08.PrintTheSquareOf12345\obj\Debug\08.PrintTheSquareOf12345.pdb

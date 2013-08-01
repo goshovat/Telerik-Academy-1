@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\07.SumNumbers\bin\Debug\07.SumNumbers.exe.config
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\07.SumNumbers\bin\Debug\07.SumNumbers.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\07.SumNumbers\bin\Debug\07.SumNumbers.pdb
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\07.SumNumbers\obj\Debug\07.SumNumbers.exe
+D:\Documents\Projects C#\Telerik C# - I\04.Console-Input-Output\07.SumNumbers\obj\Debug\07.SumNumbers.pdb

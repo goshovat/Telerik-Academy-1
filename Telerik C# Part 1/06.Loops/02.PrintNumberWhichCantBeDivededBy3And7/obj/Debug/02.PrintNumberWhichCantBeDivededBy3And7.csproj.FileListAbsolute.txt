@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\02.PrintNumberWhichCantBeDivededBy3And7\bin\Debug\02.PrintNumberWhichCantBeDivededBy3And7.exe.config
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\02.PrintNumberWhichCantBeDivededBy3And7\bin\Debug\02.PrintNumberWhichCantBeDivededBy3And7.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\02.PrintNumberWhichCantBeDivededBy3And7\bin\Debug\02.PrintNumberWhichCantBeDivededBy3And7.pdb
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\02.PrintNumberWhichCantBeDivededBy3And7\obj\Debug\02.PrintNumberWhichCantBeDivededBy3And7.exe
+D:\Documents\Projects C#\Telerik C# - I\06.Loops\02.PrintNumberWhichCantBeDivededBy3And7\obj\Debug\02.PrintNumberWhichCantBeDivededBy3And7.pdb

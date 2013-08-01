@@ -1,0 +1,8 @@
+D:\Documents\Projects C#\Introduction-to-Programming\03.PrintHello\bin\Debug\03.PrintHello.exe.config
+D:\Documents\Projects C#\Introduction-to-Programming\03.PrintHello\bin\Debug\03.PrintHello.exe
+D:\Documents\Projects C#\Introduction-to-Programming\03.PrintHello\bin\Debug\03.PrintHello.pdb
+D:\Documents\Projects C#\Introduction-to-Programming\03.PrintHello\obj\Debug\03.PrintHello.exe
+D:\Documents\Projects C#\Introduction-to-Programming\03.PrintHello\obj\Debug\03.PrintHello.pdb
+D:\Documents\Projects C#\Telerik C# - I\Introduction-to-Programming\03.PrintHello\bin\Debug\03.PrintHello.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Introduction-to-Programming\03.PrintHello\obj\Debug\03.PrintHello.exe
+D:\Documents\Projects C#\Telerik C# - I\Introduction-to-Programming\03.PrintHello\obj\Debug\03.PrintHello.pdb

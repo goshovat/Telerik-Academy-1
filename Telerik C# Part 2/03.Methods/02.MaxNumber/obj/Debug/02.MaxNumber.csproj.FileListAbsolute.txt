@@ -1,0 +1,11 @@
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\02.MaxNumber\bin\Debug\02.MaxNumber.exe.config
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\02.MaxNumber\bin\Debug\02.MaxNumber.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\02.MaxNumber\bin\Debug\02.MaxNumber.pdb
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\02.MaxNumber\obj\Debug\02.MaxNumber.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\02.MaxNumber\obj\Debug\02.MaxNumber.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\02.MaxNumber\bin\Debug\02.MaxNumber.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\02.MaxNumber\obj\Debug\02.MaxNumber.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\02.MaxNumber\obj\Debug\02.MaxNumber.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\02.MaxNumber\bin\Debug\02.MaxNumber.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\02.MaxNumber\bin\Debug\02.MaxNumber.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\02.MaxNumber\obj\Debug\02.MaxNumber.csprojResolveAssemblyReference.cache

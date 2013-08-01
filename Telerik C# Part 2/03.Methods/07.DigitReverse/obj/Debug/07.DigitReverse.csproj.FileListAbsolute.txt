@@ -1,0 +1,12 @@
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\07.DigitReverse\bin\Debug\07.DigitReverse.exe.config
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\07.DigitReverse\obj\Debug\07.DigitReverse.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\07.DigitReverse\bin\Debug\07.DigitReverse.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\07.DigitReverse\bin\Debug\07.DigitReverse.pdb
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\07.DigitReverse\obj\Debug\07.DigitReverse.exe
+c:\users\nikolay\documents\visual studio 2012\Projects\03.Methods\07.DigitReverse\obj\Debug\07.DigitReverse.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\07.DigitReverse\bin\Debug\07.DigitReverse.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\07.DigitReverse\obj\Debug\07.DigitReverse.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\07.DigitReverse\obj\Debug\07.DigitReverse.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\07.DigitReverse\bin\Debug\07.DigitReverse.exe
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\07.DigitReverse\bin\Debug\07.DigitReverse.pdb
+D:\Documents\Projects C#\Telerik C# - 2\03.Methods\07.DigitReverse\obj\Debug\07.DigitReverse.csprojResolveAssemblyReference.cache

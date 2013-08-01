@@ -1,0 +1,9 @@
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise01\bin\Debug\Exercise01.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise01\bin\Debug\Exercise01.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise01\bin\Debug\Exercise01.pdb
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise01\obj\Debug\Exercise01.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise01\obj\Debug\Exercise01.exe
+D:\Documents\Projects C#\Telerik C# - I\Primitive-Data-Types-and-Variables\Exercise01\obj\Debug\Exercise01.pdb
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise01\bin\Debug\Exercise01.exe.config
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise01\obj\Debug\Exercise01.exe
+D:\Documents\Projects C#\Telerik C# - I\02.Primitive-Data-Types-and-Variables\Exercise01\obj\Debug\Exercise01.pdb

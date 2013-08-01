@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\BatGoikoTower\bin\Debug\BatGoikoTower.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\BatGoikoTower\bin\Debug\BatGoikoTower.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\BatGoikoTower\bin\Debug\BatGoikoTower.pdb
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\BatGoikoTower\obj\Debug\BatGoikoTower.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam24_6_2-13\BatGoikoTower\obj\Debug\BatGoikoTower.pdb

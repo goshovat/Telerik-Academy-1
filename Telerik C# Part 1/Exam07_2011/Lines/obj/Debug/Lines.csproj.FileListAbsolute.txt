@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\Lines\bin\Debug\Lines.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\Lines\bin\Debug\Lines.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\Lines\bin\Debug\Lines.pdb
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\Lines\obj\Debug\Lines.exe
+D:\Documents\Projects C#\Telerik C# - I\Exam07_2011\Lines\obj\Debug\Lines.pdb

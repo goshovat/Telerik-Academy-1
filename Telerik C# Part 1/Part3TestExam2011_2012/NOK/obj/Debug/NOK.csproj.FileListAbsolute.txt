@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\NOK\bin\Debug\NOK.exe.config
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\NOK\bin\Debug\NOK.exe
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\NOK\bin\Debug\NOK.pdb
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\NOK\obj\Debug\NOK.exe
+D:\Documents\Projects C#\Telerik C# - I\Part3TestExam2011_2012\NOK\obj\Debug\NOK.pdb

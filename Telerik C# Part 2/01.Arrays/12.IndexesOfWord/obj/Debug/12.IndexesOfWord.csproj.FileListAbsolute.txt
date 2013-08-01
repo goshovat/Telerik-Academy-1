@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\12.IndexesOfWord\bin\Debug\12.IndexesOfWord.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\12.IndexesOfWord\bin\Debug\12.IndexesOfWord.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\12.IndexesOfWord\bin\Debug\12.IndexesOfWord.pdb
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\12.IndexesOfWord\obj\Debug\12.IndexesOfWord.exe
+D:\Documents\Projects C#\Telerik C# - 2\01.Arrays\12.IndexesOfWord\obj\Debug\12.IndexesOfWord.pdb
