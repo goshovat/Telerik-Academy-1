@@ -1,0 +1,5 @@
+This is the testword first line.
+Here are testSomething some test lines.
+If this test is correct the TEST words with prefix TEST will be deleted.
+Linetests are 5, but after the changes they must be 4.
+test

@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\24.ListOfWords\bin\Debug\24.ListOfWords.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\24.ListOfWords\bin\Debug\24.ListOfWords.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\24.ListOfWords\bin\Debug\24.ListOfWords.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\24.ListOfWords\obj\Debug\24.ListOfWords.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\24.ListOfWords\obj\Debug\24.ListOfWords.pdb

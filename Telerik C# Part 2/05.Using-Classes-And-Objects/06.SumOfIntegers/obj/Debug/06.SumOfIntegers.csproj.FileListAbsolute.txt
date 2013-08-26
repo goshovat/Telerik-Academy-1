@@ -1,0 +1,8 @@
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\06.SumOfIntegers\bin\Debug\06.SumOfIntegers.exe.config
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\06.SumOfIntegers\bin\Debug\06.SumOfIntegers.exe
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\06.SumOfIntegers\bin\Debug\06.SumOfIntegers.pdb
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\06.SumOfIntegers\obj\Debug\06.SumOfIntegers.exe
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\06.SumOfIntegers\obj\Debug\06.SumOfIntegers.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\06.SumOfIntegers\bin\Debug\06.SumOfIntegers.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\06.SumOfIntegers\obj\Debug\06.SumOfIntegers.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\06.SumOfIntegers\obj\Debug\06.SumOfIntegers.pdb

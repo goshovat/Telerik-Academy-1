@@ -1,0 +1,66 @@
+1 using System;
+2 using System.IO;
+3 using System.Text;
+4 
+5 // Write a program that reads a text file and inserts line numbers in front of each of its lines. The result should be written to another text file.
+6 
+7 class LineNumbers
+8 {
+9     static void Main(string[] args)
+10     {
+11         Console.Title = "Line numbers";
+12 
+13         // Open the file where we will read data from
+14         StreamReader input = new StreamReader(@"..\..\LineNumbers.cs"); // File location ..\07.Text-Files\03.LineNumbers
+15 
+16         using (input)
+17         {
+18             // Open the file where we will print the lines
+19             StreamWriter output = new StreamWriter("File.txt"); // File location ..\07.Text-Files\03.LineNumbers\bin\Debug
+20 
+21             using (output)
+22             {
+23                 string inputLine = input.ReadLine();
+24                 int line = 1;
+25                 StringBuilder outputLine;
+26 
+27                 while (inputLine != null)
+28                 {
+29                     // Inser a number in front of the line
+30                     outputLine = new StringBuilder();
+31                     outputLine.Append(line);
+32                     outputLine.Append(" ");
+33                     outputLine.Append(inputLine);
+34 
+35                     // Write the line to the file
+36                     output.WriteLine(outputLine);
+37 
+38                     // Read a new line
+39                     inputLine = input.ReadLine();
+40                     line++;
+41                 }
+42             }
+43         }
+44         //The data was saved! Check the debug folder of the project to see the contents of File.txt if you want
+45 
+46         // Print the file with the numbers in fornt of each line
+47         StreamReader file = new StreamReader("File.txt");
+48         string contents;
+49 
+50         using (file)
+51         {
+52             contents = file.ReadToEnd();
+53             Console.ForegroundColor = ConsoleColor.Magenta;
+54             Console.WriteLine("\n\"File.txt\" contents:");
+55             Console.WriteLine(new string('-', Console.WindowWidth));
+56 
+57             Console.ForegroundColor = ConsoleColor.Yellow;
+58             Console.Write(contents);
+59 
+60             Console.ForegroundColor = ConsoleColor.Magenta;
+61             Console.WriteLine(new string('-', Console.WindowWidth));
+62         }
+63 
+64         Console.ResetColor();
+65     }
+66 }

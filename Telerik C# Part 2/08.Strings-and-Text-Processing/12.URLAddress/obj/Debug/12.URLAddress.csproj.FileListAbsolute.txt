@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\12.URLAddress\bin\Debug\12.URLAddress.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\12.URLAddress\bin\Debug\12.URLAddress.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\12.URLAddress\bin\Debug\12.URLAddress.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\12.URLAddress\obj\Debug\12.URLAddress.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\12.URLAddress\obj\Debug\12.URLAddress.pdb

@@ -1,0 +1,12 @@
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\04.Triangle\bin\Debug\04.Triangle.exe.config
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\04.Triangle\bin\Debug\04.Triangle.exe
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\04.Triangle\bin\Debug\04.Triangle.pdb
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\04.Triangle\obj\Debug\04.Triangle.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\04.Triangle\obj\Debug\04.Triangle.exe
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\04.Triangle\obj\Debug\04.Triangle.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\04.Triangle\bin\Debug\04.Triangle.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\04.Triangle\obj\Debug\04.Triangle.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\04.Triangle\obj\Debug\04.Triangle.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\04.Triangle\bin\Debug\04.Triangle.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\04.Triangle\bin\Debug\04.Triangle.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\04.Triangle\obj\Debug\04.Triangle.csprojResolveAssemblyReference.cache

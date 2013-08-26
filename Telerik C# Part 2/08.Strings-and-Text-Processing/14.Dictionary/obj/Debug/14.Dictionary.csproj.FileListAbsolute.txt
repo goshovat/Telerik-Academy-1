@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\14.Dictionary\bin\Debug\14.Dictionary.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\14.Dictionary\bin\Debug\14.Dictionary.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\14.Dictionary\bin\Debug\14.Dictionary.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\14.Dictionary\obj\Debug\14.Dictionary.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\14.Dictionary\obj\Debug\14.Dictionary.pdb

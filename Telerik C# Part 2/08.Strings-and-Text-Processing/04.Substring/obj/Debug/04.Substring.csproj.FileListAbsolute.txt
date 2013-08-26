@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\04.Substring\bin\Debug\04.Substring.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\04.Substring\bin\Debug\04.Substring.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\04.Substring\bin\Debug\04.Substring.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\04.Substring\obj\Debug\04.Substring.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\04.Substring\obj\Debug\04.Substring.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\07.ArithmeticalExpression\bin\Debug\07.ArithmeticalExpression.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\07.ArithmeticalExpression\obj\Debug\07.ArithmeticalExpression.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\07.ArithmeticalExpression\bin\Debug\07.ArithmeticalExpression.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\07.ArithmeticalExpression\bin\Debug\07.ArithmeticalExpression.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\07.ArithmeticalExpression\obj\Debug\07.ArithmeticalExpression.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\07.ArithmeticalExpression\obj\Debug\07.ArithmeticalExpression.pdb

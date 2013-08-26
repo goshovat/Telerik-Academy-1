@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\05.MatrixFromFile\bin\Debug\05.MatrixFromFile.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\05.MatrixFromFile\bin\Debug\05.MatrixFromFile.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\05.MatrixFromFile\bin\Debug\05.MatrixFromFile.pdb
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\05.MatrixFromFile\obj\Debug\05.MatrixFromFile.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\05.MatrixFromFile\obj\Debug\05.MatrixFromFile.pdb

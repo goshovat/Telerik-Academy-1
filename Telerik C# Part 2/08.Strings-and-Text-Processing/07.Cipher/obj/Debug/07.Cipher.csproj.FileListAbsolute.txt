@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\07.Cipher\bin\Debug\07.Cipher.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\07.Cipher\bin\Debug\07.Cipher.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\07.Cipher\bin\Debug\07.Cipher.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\07.Cipher\obj\Debug\07.Cipher.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\07.Cipher\obj\Debug\07.Cipher.pdb

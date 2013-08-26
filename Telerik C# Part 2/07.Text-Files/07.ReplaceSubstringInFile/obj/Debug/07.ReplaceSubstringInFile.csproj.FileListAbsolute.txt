@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\07.ReplaceSubstringInFile\bin\Debug\07.ReplaceSubstringInFile.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\07.ReplaceSubstringInFile\bin\Debug\07.ReplaceSubstringInFile.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\07.ReplaceSubstringInFile\bin\Debug\07.ReplaceSubstringInFile.pdb
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\07.ReplaceSubstringInFile\obj\Debug\07.ReplaceSubstringInFile.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\07.ReplaceSubstringInFile\obj\Debug\07.ReplaceSubstringInFile.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\07.ReplaceSubstringInFile\obj\Debug\07.ReplaceSubstringInFile.pdb

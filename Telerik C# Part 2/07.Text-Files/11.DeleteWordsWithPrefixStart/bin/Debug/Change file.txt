@@ -1,0 +1,4 @@
+This is the  first line.
+Here are  some  lines.
+If this  is correct the TEST words with prefix TEST will be deleted.
+Linetests are 5, but after the changes they must be 4.

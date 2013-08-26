@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\11.Number\bin\Debug\11.Number.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\11.Number\bin\Debug\11.Number.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\11.Number\bin\Debug\11.Number.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\11.Number\obj\Debug\11.Number.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\11.Number\obj\Debug\11.Number.pdb

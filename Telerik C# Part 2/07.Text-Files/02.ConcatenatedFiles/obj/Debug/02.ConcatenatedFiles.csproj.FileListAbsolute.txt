@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\02.ConcatenatedFiles\bin\Debug\02.ConcatenatedFiles.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\02.ConcatenatedFiles\bin\Debug\02.ConcatenatedFiles.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\02.ConcatenatedFiles\bin\Debug\02.ConcatenatedFiles.pdb
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\02.ConcatenatedFiles\obj\Debug\02.ConcatenatedFiles.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\02.ConcatenatedFiles\obj\Debug\02.ConcatenatedFiles.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\02.ConcatenatedFiles\obj\Debug\02.ConcatenatedFiles.pdb

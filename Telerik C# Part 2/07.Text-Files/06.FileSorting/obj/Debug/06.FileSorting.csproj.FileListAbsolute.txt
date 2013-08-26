@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\06.FileSorting\bin\Debug\06.FileSorting.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\06.FileSorting\bin\Debug\06.FileSorting.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\06.FileSorting\bin\Debug\06.FileSorting.pdb
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\06.FileSorting\obj\Debug\06.FileSorting.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\06.FileSorting\obj\Debug\06.FileSorting.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\06.FileSorting\obj\Debug\06.FileSorting.pdb

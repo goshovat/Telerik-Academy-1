@@ -1,0 +1,12 @@
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe.config
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.pdb
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.csprojResolveAssemblyReference.cache

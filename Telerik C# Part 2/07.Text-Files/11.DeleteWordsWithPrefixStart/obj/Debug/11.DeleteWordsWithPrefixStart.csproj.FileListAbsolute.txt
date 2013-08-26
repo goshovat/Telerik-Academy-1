@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\11.DeleteWordsWithPrefixStart\bin\Debug\11.DeleteWordsWithPrefixStart.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\11.DeleteWordsWithPrefixStart\bin\Debug\11.DeleteWordsWithPrefixStart.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\11.DeleteWordsWithPrefixStart\bin\Debug\11.DeleteWordsWithPrefixStart.pdb
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\11.DeleteWordsWithPrefixStart\obj\Debug\11.DeleteWordsWithPrefixStart.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\11.DeleteWordsWithPrefixStart\obj\Debug\11.DeleteWordsWithPrefixStart.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\11.DeleteWordsWithPrefixStart\obj\Debug\11.DeleteWordsWithPrefixStart.pdb

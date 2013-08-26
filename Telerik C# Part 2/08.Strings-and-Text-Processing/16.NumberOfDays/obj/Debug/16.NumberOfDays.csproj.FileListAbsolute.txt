@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\16.NumberOfDays\bin\Debug\16.NumberOfDays.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\16.NumberOfDays\bin\Debug\16.NumberOfDays.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\16.NumberOfDays\bin\Debug\16.NumberOfDays.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\16.NumberOfDays\obj\Debug\16.NumberOfDays.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\16.NumberOfDays\obj\Debug\16.NumberOfDays.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\16.NumberOfDays\obj\Debug\16.NumberOfDays.pdb

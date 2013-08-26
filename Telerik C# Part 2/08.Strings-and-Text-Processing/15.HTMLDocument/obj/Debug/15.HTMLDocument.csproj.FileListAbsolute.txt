@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\15.HTMLDocument\bin\Debug\15.HTMLDocument.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\15.HTMLDocument\bin\Debug\15.HTMLDocument.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\15.HTMLDocument\bin\Debug\15.HTMLDocument.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\15.HTMLDocument\obj\Debug\15.HTMLDocument.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\15.HTMLDocument\obj\Debug\15.HTMLDocument.pdb

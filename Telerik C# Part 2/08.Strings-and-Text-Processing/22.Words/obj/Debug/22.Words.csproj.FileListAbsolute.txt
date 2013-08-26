@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\22.Words\bin\Debug\22.Words.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\22.Words\bin\Debug\22.Words.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\22.Words\bin\Debug\22.Words.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\22.Words\obj\Debug\22.Words.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\22.Words\obj\Debug\22.Words.pdb

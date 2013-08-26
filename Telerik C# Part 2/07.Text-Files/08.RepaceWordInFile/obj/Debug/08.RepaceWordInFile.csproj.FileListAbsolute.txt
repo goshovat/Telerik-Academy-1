@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\08.RepaceWordInFile\bin\Debug\08.RepaceWordInFile.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\08.RepaceWordInFile\bin\Debug\08.RepaceWordInFile.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\08.RepaceWordInFile\bin\Debug\08.RepaceWordInFile.pdb
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\08.RepaceWordInFile\obj\Debug\08.RepaceWordInFile.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\08.RepaceWordInFile\obj\Debug\08.RepaceWordInFile.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\08.RepaceWordInFile\obj\Debug\08.RepaceWordInFile.pdb

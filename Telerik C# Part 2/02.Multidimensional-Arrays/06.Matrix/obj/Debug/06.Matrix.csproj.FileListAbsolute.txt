@@ -4,3 +4,6 @@ D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\06.Matrix\bi
 D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\06.Matrix\obj\Debug\06.Matrix.csprojResolveAssemblyReference.cache
 D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\06.Matrix\obj\Debug\06.Matrix.exe
 D:\Documents\Projects C#\Telerik C# - II\02.Multidimensional-Arrays\06.Matrix\obj\Debug\06.Matrix.pdb
+D:\Documents\Projects C#\Telerik C# - 2\02.Multidimensional-Arrays\06.Matrix\bin\Debug\06.Matrix.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\02.Multidimensional-Arrays\06.Matrix\obj\Debug\06.Matrix.exe
+D:\Documents\Projects C#\Telerik C# - 2\02.Multidimensional-Arrays\06.Matrix\obj\Debug\06.Matrix.pdb

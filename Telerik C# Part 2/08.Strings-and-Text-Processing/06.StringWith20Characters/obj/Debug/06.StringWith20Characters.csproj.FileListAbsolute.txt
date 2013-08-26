@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\06.StringWith20Characters\bin\Debug\06.StringWith20Characters.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\06.StringWith20Characters\bin\Debug\06.StringWith20Characters.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\06.StringWith20Characters\bin\Debug\06.StringWith20Characters.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\06.StringWith20Characters\obj\Debug\06.StringWith20Characters.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\06.StringWith20Characters\obj\Debug\06.StringWith20Characters.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\06.StringWith20Characters\obj\Debug\06.StringWith20Characters.csprojResolveAssemblyReference.cache

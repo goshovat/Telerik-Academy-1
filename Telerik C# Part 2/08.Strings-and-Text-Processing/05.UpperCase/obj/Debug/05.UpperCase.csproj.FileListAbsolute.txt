@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\05.UpperCase\bin\Debug\05.UpperCase.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\05.UpperCase\obj\Debug\05.UpperCase.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\05.UpperCase\bin\Debug\05.UpperCase.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\05.UpperCase\bin\Debug\05.UpperCase.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\05.UpperCase\obj\Debug\05.UpperCase.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\05.UpperCase\obj\Debug\05.UpperCase.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\18.ExtractEmailAddresses\bin\Debug\18.ExtractEmailAddresses.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\18.ExtractEmailAddresses\bin\Debug\18.ExtractEmailAddresses.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\18.ExtractEmailAddresses\bin\Debug\18.ExtractEmailAddresses.pdb
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\18.ExtractEmailAddresses\obj\Debug\18.ExtractEmailAddresses.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\18.ExtractEmailAddresses\obj\Debug\18.ExtractEmailAddresses.exe
+D:\Documents\Projects C#\Telerik C# - 2\08.Strings-and-Text-Processing\18.ExtractEmailAddresses\obj\Debug\18.ExtractEmailAddresses.pdb

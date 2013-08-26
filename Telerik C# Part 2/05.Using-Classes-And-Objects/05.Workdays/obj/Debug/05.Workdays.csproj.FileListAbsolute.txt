@@ -1,0 +1,12 @@
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\05.Workdays\bin\Debug\05.Workdays.exe.config
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\05.Workdays\obj\Debug\05.Workdays.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\05.Workdays\bin\Debug\05.Workdays.exe
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\05.Workdays\bin\Debug\05.Workdays.pdb
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\05.Workdays\obj\Debug\05.Workdays.exe
+D:\Documents\Projects C#\Test TFS\Test\05.Using-Classes-And-Objects\05.Workdays\obj\Debug\05.Workdays.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\05.Workdays\bin\Debug\05.Workdays.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\05.Workdays\obj\Debug\05.Workdays.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\05.Workdays\obj\Debug\05.Workdays.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\05.Workdays\bin\Debug\05.Workdays.exe
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\05.Workdays\bin\Debug\05.Workdays.pdb
+D:\Documents\Projects C#\Telerik C# - 2\05.Using-Classes-And-Objects\05.Workdays\obj\Debug\05.Workdays.csprojResolveAssemblyReference.cache

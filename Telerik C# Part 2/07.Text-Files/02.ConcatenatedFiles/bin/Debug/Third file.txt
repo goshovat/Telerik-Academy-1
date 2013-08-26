@@ -1,0 +1,7 @@
+This is 
+the first 
+file!
+Hello,
+I am 
+the second file.
+Good bye !

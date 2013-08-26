@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\04.CompareTwoFiles\bin\Debug\04.CompareTwoFiles.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\04.CompareTwoFiles\bin\Debug\04.CompareTwoFiles.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\04.CompareTwoFiles\bin\Debug\04.CompareTwoFiles.pdb
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\04.CompareTwoFiles\obj\Debug\04.CompareTwoFiles.exe
+D:\Documents\Projects C#\Telerik C# - 2\07.Text-Files\04.CompareTwoFiles\obj\Debug\04.CompareTwoFiles.pdb
