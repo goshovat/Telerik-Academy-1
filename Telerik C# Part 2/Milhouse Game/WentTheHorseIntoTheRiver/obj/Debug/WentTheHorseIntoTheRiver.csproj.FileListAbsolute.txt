@@ -1,0 +1,24 @@
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.3\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.3\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.3\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.3\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.3\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse v.3\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\Team work - Console Game\Game\Milhouse\Team Milhouse\Milhouse Game\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\Team work - Console Game\Game\Milhouse\Team Milhouse\Milhouse Game\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\Team work - Console Game\Game\Milhouse\Team Milhouse\Milhouse Game\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\Team work - Console Game\Game\Milhouse\Team Milhouse\Milhouse Game\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\Team work - Console Game\Game\Milhouse\Team Milhouse\Milhouse Game\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\Team work - Console Game\Game\Milhouse\Team Milhouse\Milhouse Game\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.csprojResolveAssemblyReference.cache

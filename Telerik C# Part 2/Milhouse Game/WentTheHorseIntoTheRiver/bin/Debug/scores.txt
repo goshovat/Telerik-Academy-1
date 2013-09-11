@@ -1,0 +1,12 @@
+﻿N: | Points | Player name
+---+--------+--------------
+1  | 003214 | Milhouse
+2  | 003130 | Milhouse
+3  | 002730 | Milhouse
+4  | 002500 | Bart
+5  | 002200 | Homer
+6  | 002000 | Bart
+7  | 001000 | Lisa
+8  | 000641 | Ivan
+9  | 000441 | PEsho
+10 | 000007 | Gosho
