@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\03.Hierarchy\bin\Debug\03.Hierarchy.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\03.Hierarchy\bin\Debug\03.Hierarchy.exe
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\03.Hierarchy\bin\Debug\03.Hierarchy.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\03.Hierarchy\obj\Debug\03.Hierarchy.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\03.Hierarchy\obj\Debug\03.Hierarchy.exe
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\03.Hierarchy\obj\Debug\03.Hierarchy.pdb

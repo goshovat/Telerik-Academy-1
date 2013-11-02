@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\Bank\bin\Debug\Bank.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\Bank\bin\Debug\Bank.exe
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\Bank\bin\Debug\Bank.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\Bank\obj\Debug\Bank.exe
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\Bank\obj\Debug\Bank.pdb

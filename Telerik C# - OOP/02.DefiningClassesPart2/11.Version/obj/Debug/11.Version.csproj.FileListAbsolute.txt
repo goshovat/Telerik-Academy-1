@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\11.Version\bin\Debug\11.Version.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\11.Version\bin\Debug\11.Version.exe
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\11.Version\bin\Debug\11.Version.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\11.Version\obj\Debug\11.Version.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\11.Version\obj\Debug\11.Version.exe
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\11.Version\obj\Debug\11.Version.pdb

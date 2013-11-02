@@ -1,0 +1,3 @@
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\3dSpace\bin\Debug\3dSpace.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\3dSpace\obj\Debug\3dSpace.exe
+D:\Documents\Projects C#\Telerik C# - OOP\02.DefiningClassesPart2\3dSpace\obj\Debug\3dSpace.pdb

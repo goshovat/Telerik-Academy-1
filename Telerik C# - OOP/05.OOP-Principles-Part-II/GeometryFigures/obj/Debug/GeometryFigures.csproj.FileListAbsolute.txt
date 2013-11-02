@@ -1,0 +1,12 @@
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\05.OOP-Principles-Part-II\GeometryFigures\bin\Debug\GeometryFigures.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\05.OOP-Principles-Part-II\GeometryFigures\bin\Debug\GeometryFigures.exe
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\05.OOP-Principles-Part-II\GeometryFigures\bin\Debug\GeometryFigures.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\05.OOP-Principles-Part-II\GeometryFigures\obj\Debug\GeometryFigures.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\05.OOP-Principles-Part-II\GeometryFigures\obj\Debug\GeometryFigures.exe
+D:\Documents\Projects C#\Telerik C# - OOP\04.OOP-Principles-Part-I\05.OOP-Principles-Part-II\GeometryFigures\obj\Debug\GeometryFigures.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\GeometryFigures\bin\Debug\GeometryFigures.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\GeometryFigures\obj\Debug\GeometryFigures.exe
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\GeometryFigures\obj\Debug\GeometryFigures.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\GeometryFigures\bin\Debug\GeometryFigures.exe
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\GeometryFigures\bin\Debug\GeometryFigures.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\05.OOP-Principles-Part-II\GeometryFigures\obj\Debug\GeometryFigures.csprojResolveAssemblyReference.cache

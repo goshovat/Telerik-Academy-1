@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - OOP\06.Common-Type-System\06.BinarySearchTree\bin\Debug\06.BinarySearchTree.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\06.Common-Type-System\06.BinarySearchTree\obj\Debug\06.BinarySearchTree.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - OOP\06.Common-Type-System\06.BinarySearchTree\bin\Debug\06.BinarySearchTree.exe
+D:\Documents\Projects C#\Telerik C# - OOP\06.Common-Type-System\06.BinarySearchTree\bin\Debug\06.BinarySearchTree.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\06.Common-Type-System\06.BinarySearchTree\obj\Debug\06.BinarySearchTree.exe
+D:\Documents\Projects C#\Telerik C# - OOP\06.Common-Type-System\06.BinarySearchTree\obj\Debug\06.BinarySearchTree.pdb

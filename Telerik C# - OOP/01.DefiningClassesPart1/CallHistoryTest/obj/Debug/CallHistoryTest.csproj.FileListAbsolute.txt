@@ -1,0 +1,8 @@
+D:\Documents\Projects C#\Telerik C# - OOP\01.DefiningClassesPart1\CallHistoryTest\bin\Debug\CallHistoryTest.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\01.DefiningClassesPart1\CallHistoryTest\bin\Debug\CallHistoryTest.exe
+D:\Documents\Projects C#\Telerik C# - OOP\01.DefiningClassesPart1\CallHistoryTest\bin\Debug\CallHistoryTest.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\01.DefiningClassesPart1\CallHistoryTest\obj\Debug\CallHistoryTest.exe
+D:\Documents\Projects C#\Telerik C# - OOP\01.DefiningClassesPart1\CallHistoryTest\obj\Debug\CallHistoryTest.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\01.DefiningClassesPart1\CallHistoryTest\bin\Debug\MobilePhone.exe
+D:\Documents\Projects C#\Telerik C# - OOP\01.DefiningClassesPart1\CallHistoryTest\bin\Debug\MobilePhone.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\01.DefiningClassesPart1\CallHistoryTest\obj\Debug\CallHistoryTest.csprojResolveAssemblyReference.cache
