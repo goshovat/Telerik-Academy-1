@@ -1,0 +1,9 @@
+C:\Users\Nikolay\Desktop\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+C:\Users\Nikolay\Desktop\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\Users\Nikolay\Desktop\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\Users\Nikolay\Desktop\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Users\Nikolay\Desktop\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+D:\Documents\Projects C#\Telerik C# - OOP\Exam12.12.2013\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+D:\Documents\Projects C#\Telerik C# - OOP\Exam12.12.2013\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+D:\Documents\Projects C#\Telerik C# - OOP\Exam12.12.2013\2. Trade and Travel\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
