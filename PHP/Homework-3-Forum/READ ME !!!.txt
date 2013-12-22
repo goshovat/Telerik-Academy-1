@@ -1,0 +1,11 @@
+За да импортнете базата данни просто влезте в http://localhost/phpmyadmin -> Import ->
+Choose file (избирате php_homework_3_database.sql) -> Go.
+
+Връзката с базата данни е в папката "Includes" във файла "constants.php".
+$connection = mysqli_connect('localhost', 'TelerikAdmin', 'qwerty', 'php_homework_3_database');
+Тук можете да смените името и паролата на вашия потребителя в phpmyadmin или да
+направите нов потребител TelerikAdmin с парола qwerty с всички права.
+
+В самото домашно съм направил един потребител, който да има права да изтрива публикации.
+Името му е PHPMASTER, а паролата THEMOSTSECRETPASSWORD. Винаги можете да създадето нов
+потребител, но той няма да има тази възможност. 

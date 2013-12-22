@@ -1,0 +1,7 @@
+За да импортнете базата данни просто влезте в http://localhost/phpmyadmin -> Import ->
+Choose file (избирате library_homework_5.sql) -> Go.
+
+Връзката с базата данни е в папката "Includes" във файла "constants.php".
+$connection = mysqli_connect('localhost', 'TelerikAdmin', 'qwerty', 'library_homework_5');
+Тук можете да смените името и паролата на вашия потребителя в phpmyadmin или да
+направите нов потребител TelerikAdmin с парола qwerty с всички права.

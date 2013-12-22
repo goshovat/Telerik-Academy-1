@@ -1,0 +1,4 @@
+Връзката с базата данни е в папката "inc" във файла "functions.php".
+$db = mysqli_connect('localhost', 'TelerikAdmin', 'qwerty', 'books');
+Тук можете да смените името и паролата на вашия потребител в phpmyadmin или да
+направите нов потребител TelerikAdmin с парола qwerty с всички права.
