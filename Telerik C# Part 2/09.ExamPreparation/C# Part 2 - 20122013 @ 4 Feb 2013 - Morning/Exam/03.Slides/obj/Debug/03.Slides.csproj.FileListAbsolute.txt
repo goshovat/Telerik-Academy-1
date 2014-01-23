@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\03.Slides\bin\Debug\03.Slides.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\03.Slides\bin\Debug\03.Slides.exe
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\03.Slides\bin\Debug\03.Slides.pdb
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\03.Slides\obj\Debug\03.Slides.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\03.Slides\obj\Debug\03.Slides.exe
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\03.Slides\obj\Debug\03.Slides.pdb

@@ -1,0 +1,1 @@
+D:\Documents\Telerik Courses homeworks\Telerik C# - 2\Exam CSharp 2\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe.config

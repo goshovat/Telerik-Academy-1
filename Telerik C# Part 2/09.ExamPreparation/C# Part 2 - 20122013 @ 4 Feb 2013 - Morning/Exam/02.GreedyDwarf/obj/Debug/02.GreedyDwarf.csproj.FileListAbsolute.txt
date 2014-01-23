@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.exe
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\02.GreedyDwarf\bin\Debug\02.GreedyDwarf.pdb
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.exe
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\02.GreedyDwarf\obj\Debug\02.GreedyDwarf.pdb

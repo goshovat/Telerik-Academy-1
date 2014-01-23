@@ -1,0 +1,5 @@
+D:\Documents\Projects C#\Telerik C# - 2\Exam CSharp 2\test\bin\Debug\test.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\Exam CSharp 2\test\bin\Debug\test.exe
+D:\Documents\Projects C#\Telerik C# - 2\Exam CSharp 2\test\bin\Debug\test.pdb
+D:\Documents\Projects C#\Telerik C# - 2\Exam CSharp 2\test\obj\Debug\test.exe
+D:\Documents\Projects C#\Telerik C# - 2\Exam CSharp 2\test\obj\Debug\test.pdb

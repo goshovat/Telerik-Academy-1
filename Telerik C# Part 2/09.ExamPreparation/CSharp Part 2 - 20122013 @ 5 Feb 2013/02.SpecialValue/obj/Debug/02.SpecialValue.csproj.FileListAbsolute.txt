@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\02.SpecialValue\bin\Debug\02.SpecialValue.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\02.SpecialValue\bin\Debug\02.SpecialValue.exe
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\02.SpecialValue\bin\Debug\02.SpecialValue.pdb
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\02.SpecialValue\obj\Debug\02.SpecialValue.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\02.SpecialValue\obj\Debug\02.SpecialValue.exe
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\02.SpecialValue\obj\Debug\02.SpecialValue.pdb

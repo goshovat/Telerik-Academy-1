@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\04.FTML\bin\Debug\04.FTML.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\04.FTML\bin\Debug\04.FTML.exe
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\04.FTML\bin\Debug\04.FTML.pdb
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\04.FTML\obj\Debug\04.FTML.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\04.FTML\obj\Debug\04.FTML.exe
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\CSharp Part 2 - 20122013 @ 5 Feb 2013\04.FTML\obj\Debug\04.FTML.pdb

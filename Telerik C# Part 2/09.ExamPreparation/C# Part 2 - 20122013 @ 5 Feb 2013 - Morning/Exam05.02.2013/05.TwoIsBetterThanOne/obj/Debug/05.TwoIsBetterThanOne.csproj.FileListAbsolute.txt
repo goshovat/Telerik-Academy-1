@@ -1,0 +1,7 @@
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\C# Part 2 - 20122013 @ 5 Feb 2013 - Morning\Exam05.02.2013\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\C# Part 2 - 20122013 @ 5 Feb 2013 - Morning\Exam05.02.2013\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.exe
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\C# Part 2 - 20122013 @ 5 Feb 2013 - Morning\Exam05.02.2013\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.pdb
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\C# Part 2 - 20122013 @ 5 Feb 2013 - Morning\Exam05.02.2013\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\C# Part 2 - 20122013 @ 5 Feb 2013 - Morning\Exam05.02.2013\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.exe
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\C# Part 2 - 20122013 @ 5 Feb 2013 - Morning\Exam05.02.2013\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.pdb
+D:\Documents\Projects C#\Telerik C# - 2\09.ExamPreparation\C# Part 2 - 20122013 @ 5 Feb 2013 - Morning\Exam05.02.2013\02.JoroTheRabbit\bin\Debug\05.TwoIsBetterThanOne.exe.config

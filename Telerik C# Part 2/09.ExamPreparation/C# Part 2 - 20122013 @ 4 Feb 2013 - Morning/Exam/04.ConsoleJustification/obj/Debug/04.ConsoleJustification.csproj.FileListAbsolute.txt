@@ -1,0 +1,6 @@
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.exe
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\04.ConsoleJustification\bin\Debug\04.ConsoleJustification.pdb
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.exe
+D:\Documents\Projects C#\Telerik C# - 2\C# Part 2 - 20122013 @ 4 Feb 2013 - Morning\Exam\04.ConsoleJustification\obj\Debug\04.ConsoleJustification.pdb

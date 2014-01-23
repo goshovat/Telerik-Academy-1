@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="aaa704fd-a79d-4626-9705-27ca9739dadf">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>04.ConsoleJustification/ConsoleJustification.cs</FileRelativePath>
+        <ProjectRelativePath>04.ConsoleJustification/04.ConsoleJustification.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>17622798273734233906</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>7516550339496410154</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>
