@@ -1,0 +1,13 @@
+﻿body {
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+.LeftPadded{
+    margin-left: 10px;
+}

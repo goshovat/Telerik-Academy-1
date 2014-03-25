@@ -1,0 +1,98 @@
+﻿body {
+    color: #A4A4A4;
+    padding: 0px;
+    margin: 0px;
+    font: 13px/17px Verdana, Arial, Helvetica, sans-serif;
+}
+
+div, ul, li, h1, h2, h3, h4, p, img {
+    margin:0px; padding:0px;
+}
+
+body > div {
+    display: inline-block;
+    background-color: #3B3B3B;
+    padding: 5px;
+    border: 1px solid #806850;
+    border-radius: 10px;
+}
+
+#form-div {
+    width: 660px;
+    height: 77px;
+    position: relative;
+    background: url(../pics/from_shadow.jpg) 0 100% no-repeat;
+}
+
+    #form-div form {
+        width: 690px;
+        height: 77px;
+        margin: 0;
+        padding: 0 0 0 10px;
+    }
+
+        #form-div form img {
+            float: left;
+            margin-top: 15px;
+        }
+
+        #form-div form label {
+            width: 177px;
+            height: 44px;
+            font-family: Georgia, "Times New Roman", Times, serif;
+            font-size: 20px;
+            font-weight: bold;
+            color: #fff;
+            display: block;
+            float: left;
+            
+            padding-left: 10px;
+            line-height: 44px;
+            margin-top: 17px;
+        }
+
+        #form-div form input {
+            width: 135px;
+            height: 18px;
+            float: left;
+            display: block;
+            margin: 28px 25px 0 0;
+            padding: 0 0 0 10px;
+        }
+
+            #form-div form input.botton {
+                width: 56px;
+                height: 28px;
+                float: left;
+                background: url(../pics/button.png) 0 0 no-repeat #3A3A3A;
+                border: none;
+                color: #fff;
+                font: 14px/28px Verdana, Arial, Helvetica, sans-serif;
+                margin: 26px 0 0;
+                padding: 0px;
+            }
+#article {
+    width: 602px;
+    position: relative;
+    padding: 0 10px;
+    clear: both;
+}
+
+    #article h1 {
+        width: 400px;
+        height: 68px;
+        display: block;
+        background: #3B3B3B;
+        color: #FBD61A;
+        font: 28px/68px Georgia, "Times New Roman", Times, serif;
+        font-weight: normal;
+    }
+
+    #article p.lasttext {
+        padding: 0 0 25px 0;
+    }
+
+    #article p span {
+        background: #3B3B3B;
+        color: #fff;
+    }

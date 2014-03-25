@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Friends</title>
+    <!-- -->
+    <style type="text/css">
+        dl {counter-reset: item1;}
+
+        
+        dt:before {
+            counter-increment: item1;
+            content: counter(item1) ". ";
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="Profile.html" style="padding-right: 6em">Profile</a>
+        <a href="Friends.html" style="padding-right: 6em">Friends</a>
+        <a href="Info.html">Additional Information</a>
+    </nav>
+    <header>
+        <br />
+        <hr />
+        <h1>
+            <em>Friends of Doncho</em>
+        </h1>
+        <hr />
+    </header>
+    <div>
+        <dl style="padding-left: 1em">
+            <dt><em>Pesho Ivanov</em></dt>
+            <dd>Student</dd>
+            <dt><em>Vankata</em></dt>
+            <dd>Software developer</dd>
+            <dt><em>Bai Gosho</em></dt>
+            <dd>System admin</dd>
+        </dl>
+    </div>
+</body>
+</html>

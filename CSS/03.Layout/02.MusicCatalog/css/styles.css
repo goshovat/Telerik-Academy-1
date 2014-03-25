@@ -1,0 +1,96 @@
+﻿article, div, img, p, h1{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+    body > div {
+        display: inline-block;
+        background-color: #eeeeee;
+        border: 1px solid #b6ff00;
+        border-radius: 10px;
+        padding: 5px;
+    }
+
+div h1 {
+    margin: 5px;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+article, article img {
+    border-radius: 2px;
+    border: 2px solid #c3c1c1;
+    background-color: #FFFFFF;
+}
+
+article {
+    position: relative;
+    margin: 35px 8px;
+    padding: 20px;
+    width: 530px;
+    height: 130px;
+}
+
+    article img {
+        position: absolute;
+        width: 200px;
+        height: 130px;
+    }
+
+    article p {
+        position: absolute;
+        left: 240px;
+        padding-right: 15px;
+    }
+
+        article p span {
+            font-weight: bold;
+        }
+
+    article button.listen {
+        position: absolute;
+        width: 100px;
+        height: 30px;
+        bottom: 15px;
+        right: 90px;
+        background-size: 100px auto;
+        background-position: -2px;
+    }
+
+
+    article button.add {
+        position: absolute;
+        bottom: 15px;
+        right: 15px;
+        width: 70px;
+        height: 30px;
+        background-size: 90px auto;
+        background-position: -5px;
+    }
+
+    article button {
+        color: #FFFFFF;
+        font-size: 17px;
+        background-image: url(../pics/button.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        border-radius: 2px;
+        border-top-color: #F85A5B;
+        border-left-color: #7a0c10;
+        border-bottom-color: #7a0c10;
+        border-right-color: #7a0c10;
+    }
+
+    aside > p {
+        position: absolute;
+        left: 750px;
+        top: 300px;
+    }
+
+    aside > p span {
+        font-weight: bold;
+        font-size: x-large;
+    }

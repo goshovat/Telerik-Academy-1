@@ -1,0 +1,76 @@
+@mixin nav-width($img-numbers, $img-width, $img-margin) {
+	width: $img-numbers * ($img-width + 2 * ($img-margin + 1));
+}
+
+$logo-numbers: 12;
+$logo-size: 130px;
+$logo-margin: 5px;
+
+header, nav, ul, li, label, img, section, input {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url(../pics/background.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	header {
+		overflow-x: scroll;
+		width: 900px;
+		margin: 0 auto;
+		height: $logo-size + 30px;
+		nav {
+			@include nav-width($logo-numbers, $logo-size, $logo-margin) ;
+			overflow-x:hidden;
+			ul {
+		
+				position: relative;
+				list-style-type: none;
+				li {
+					display: inline-block;
+
+					label img {					
+						margin-right: $logo-margin;
+						width: $logo-size;
+						height: $logo-size;
+						opacity: 0.7;
+
+						&:hover  {
+								border: 1px solid white;		
+							box-shadow:white 0px 0px 10px, inset white 0px -10px 10px;
+							opacity: 2;
+						}
+					}
+				}
+			}
+		}
+
+	}
+	section {
+		text-align: center;
+
+		label {
+			display: none;
+		}
+
+		input {
+			display: none;
+
+			&:checked + label {
+				display: block;
+			}
+	
+			&:checked + label img {
+				border: 1px solid white;
+				max-height: 500px;
+				margin-top: 10px;
+				box-shadow:white 0px 0px 10px, inset white 0px -10px 10px;
+			}	
+		}
+	}
+
+}

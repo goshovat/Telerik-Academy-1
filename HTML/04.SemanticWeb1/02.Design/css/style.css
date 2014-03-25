@@ -1,0 +1,44 @@
+﻿#frame {
+    border: 2px solid #000000;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+#table {
+    border: 2px solid #000000;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+#main{
+    width: 100%;
+}
+
+#left{
+    width: 20%;
+    float: left;
+}
+
+#right{
+    width: 80%;
+}
+
+td, th {
+    border: 2px solid #000000;
+    text-align: center;
+    width: 100px;
+}
+
+h1, h2
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    vertical-align: bottom;
+}
+
+ul
+{
+    margin-top: 40px;
+}

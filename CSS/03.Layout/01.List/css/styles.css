@@ -1,0 +1,45 @@
+﻿ul, li, a {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin-left: 10px;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    color: initial;
+}
+
+ul li ul {
+    display: none;
+}
+
+li:hover > a {
+    text-decoration: underline;
+}
+
+li:hover > ul {
+    display: block;
+}
+
+.black {
+    color: #000000;
+}
+
+.gray {
+    color: #d4d1d1;
+}
+
+.green {
+    color: #4cff00;
+}
+
+.blue {
+    color: #0effcb;
+}

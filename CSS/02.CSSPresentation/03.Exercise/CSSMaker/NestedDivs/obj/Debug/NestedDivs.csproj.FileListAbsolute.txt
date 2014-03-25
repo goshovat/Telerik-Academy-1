@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\CSS\CSSPresentation\03.Exercise\CSSMaker\NestedDivs\bin\Debug\NestedDivs.exe.config
+D:\Documents\Telerik Courses homeworks\CSS\CSSPresentation\03.Exercise\CSSMaker\NestedDivs\bin\Debug\NestedDivs.exe
+D:\Documents\Telerik Courses homeworks\CSS\CSSPresentation\03.Exercise\CSSMaker\NestedDivs\bin\Debug\NestedDivs.pdb
+D:\Documents\Telerik Courses homeworks\CSS\CSSPresentation\03.Exercise\CSSMaker\NestedDivs\obj\Debug\NestedDivs.exe
+D:\Documents\Telerik Courses homeworks\CSS\CSSPresentation\03.Exercise\CSSMaker\NestedDivs\obj\Debug\NestedDivs.pdb

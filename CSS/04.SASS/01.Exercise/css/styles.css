@@ -1,0 +1,213 @@
+body, header, section, footer, article, h1, h2, h3, h4, h5, h6, input, button, label, p, fieldset, nav, ul, li, a, span, strong, em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+div, h1, h3, h4, h5, h6, header, footer, body, section, nav, article, aside {
+    display: block;
+}
+
+body {
+    color: white;
+    background: #d493fe;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #d493fe 1%, #901bef 17%, #9215f2 20%, #9215f2 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #d493fe), color-stop(17%, #901bef), color-stop(20%, #9215f2), color-stop(100%, #9215f2));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #d493fe 1%, #901bef 17%, #9215f2 20%, #9215f2 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #d493fe 1%, #901bef 17%, #9215f2 20%, #9215f2 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #d493fe 1%, #901bef 17%, #9215f2 20%, #9215f2 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, #d493fe 1%, #901bef 17%, #9215f2 20%, #9215f2 100%);
+    /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d493fe', endColorstr='#9215f2',GradientType=0 );
+    /* IE6-9 */
+    font: 14px normal Arial;
+    padding: 20px 30px 10px 10px;
+}
+
+    body ul {
+        list-style-type: none;
+    }
+
+    body div#header-container {
+        zoom: 1;
+    }
+
+        body div#header-container:after {
+            display: block;
+            content: "";
+            height: 0;
+            clear: both;
+        }
+
+        body div#header-container div#logo-container {
+            float: left;
+        }
+
+            body div#header-container div#logo-container img {
+                width: 280px;
+                height: 60px;
+            }
+
+        body div#header-container div#reg-form-container {
+            margin: 0 50px 0 0;
+            float: right;
+        }
+
+            body div#header-container div#reg-form-container input[type="text"], body div#header-container div#reg-form-container input[type="password"] {
+                border: 1px solid #223344;
+                border-radius: 10px;
+                margin: 5px 5px 5px 5px;
+                width: 100px;
+                height: 15px;
+                background-color: #B35EF3;
+            }
+
+            body div#header-container div#reg-form-container button#btn-register {
+                border: 1px solid #223344;
+                border-radius: 7px;
+                width: 75px;
+                height: 27px;
+                font-weight: bold;
+                border: 1px solid #cccccc;
+                border-style: outset;
+                border-radius: 10px;
+                background: none;
+                color: white;
+                box-shadow: 1px 1px black;
+            }
+
+    body nav ul.nav-list {
+        border: 1px solid #223344;
+        border-radius: 12px;
+        margin: 20px 250px 20px 10px;
+        padding: 0 10px 0 10px;
+    }
+
+        body nav ul.nav-list > li {
+            display: inline-block;
+            padding: 8px 7px 8px 7px;
+        }
+
+            body nav ul.nav-list > li a {
+                text-decoration: none;
+                color: white;
+            }
+
+            body nav ul.nav-list > li ul {
+                display: none;
+            }
+
+            body nav ul.nav-list > li:hover > a {
+                text-decoration: underline;
+                color: #A8A8A8;
+            }
+
+            body nav ul.nav-list > li:hover > ul {
+                display: block;
+                position: absolute;
+                position: absolute;
+                margin-top: 0;
+                margin-left: 0;
+                border-radius: 5px;
+                border: none;
+                background-color: #AF57F2;
+                opacity: 0.9;
+            }
+
+                body nav ul.nav-list > li:hover > ul > li {
+                    display: block;
+                    border-bottom: 1px solid black;
+                }
+
+                    body nav ul.nav-list > li:hover > ul > li:last-of-type {
+                        border-bottom: none;
+                    }
+
+    body section {
+        display: inline-block;
+        width: 75%;
+    }
+
+        body section a {
+            text-decoration: none;
+            color: #D0A3F7;
+        }
+
+            body section a:visited {
+                color: #D0A3F7;
+            }
+
+        body section article {
+            margin: 20px 0 20px 0;
+            padding: 20px 20px 20px 20px;
+            border: 1px solid #223344;
+            border-radius: 10px;
+        }
+
+            body section article h1 {
+                margin: 0 0 10px 5px;
+            }
+
+            body section article footer {
+                text-align: right;
+            }
+
+    body aside {
+        display: inline-block;
+        width: 20%;
+        vertical-align: top;
+        margin: 30px 0 0 30px;
+    }
+
+        body aside > ul em {
+            color: #cccccc;
+            font-weight: normal;
+            font-style: italic;
+        }
+
+        body aside > ul strong {
+            color: #cccccc;
+            font-weight: bold;
+            font-style: normal;
+        }
+
+        body aside > ul a {
+            color: #aaaaaa;
+            text-decoration: none;
+        }
+
+        body aside > ul > li {
+            padding: 10px 10px 10px 10px;
+            margin: 8px 0 8px 0px;
+            border: 1px solid #223344;
+            border-radius: 3px;
+        }
+
+            body aside > ul > li h2 {
+                font-size: 1.1em;
+                font-weight: bold;
+                margin: 0 0 5px 0;
+            }
+
+            body aside > ul > li ul li {
+                margin: 5px 0px 0px 10px;
+                background: url(../images/li-dot.png) no-repeat;
+                background-position: 0 50%;
+                padding-left: 25px;
+            }
+
+    body > footer {
+        padding: 15px 0px 25px 0px;
+    }
+
+        body > footer p {
+            text-align: center;
+            font-size: 1.2em;
+            font-weight: bold;
+        }

@@ -1,0 +1,213 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Nakov Page</title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+        textarea 
+        {
+            width: 90%;
+            resize: none;
+        }
+
+        td {
+            padding-bottom: 4px;
+            padding-right: 4px;
+            padding-left: 4px;
+            padding-top: 4px;
+        }
+
+        .fullLength {
+            width: 93%;
+        }
+
+        .firstCol 
+        {
+            text-align: right;
+            font-weight: bold;
+        }
+
+        .Phone {
+            width: 50px;
+        }
+
+        .Phone3 {
+            width: 130px;
+        }
+        
+        .TwoDigits
+        {
+            width: 30px;
+        }
+
+        .FourDigits
+        {
+            width: 70px;
+        }
+
+        #Zip 
+        {
+            width: 25%;
+        }
+
+
+        #State
+        {
+            width: 50px;
+        }
+
+        #City
+        {
+            width: 200px;
+        }
+        
+    </style>
+</head>
+<body>
+    <form method="post" action="NakovPage.html">
+        <table border="1">
+            <colgroup>
+                <col width="150" />
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td class="firstCol">
+                        <label for="LastName">Last Name</label>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" class="fullLength" id="LastName" title="Enter your last name" required placeholder="Nakov" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="FirstName">First Name</label>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" class="fullLength" id="FirstName" title="Enter your first name" required placeholder="Svetlin" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="Address">Address</label>
+                    </td>   
+                    <td colspan="3">
+                        <textarea id="Address" rows="4" title="Enter your address" required placeholder="17 Hristo Botev Str. 
+                                  floor 3, apt. 12"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="City">City</label>
+                    </td>
+                    <td>
+                        <input type="text" id="City" title="Enter your city" required placeholder="Kaspichan" />
+                    </td>
+                    <td>
+                        <b><label for="State">State</label></b>
+                    </td>
+                    <td>
+                        <input type="text" id="State" title="Enter your state" required />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="Zip">Zip/Postal Code</label>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" id="Zip" title="Enter your zip code" maxlength="10" required placeholder="9325" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="Country">Country</label>
+                    </td>
+                    <td colspan="3">
+                        <select id="Country" title="Enter your country">
+                            <option>Bulgaria</option>
+                            <option>United States of America</option>
+                            <option>Macedonia</option>
+                            <option>Canada</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="Phone1">Phone(country code, area code, number)</label>
+                    </td>
+                    <td colspan="3">
+                        <label for="Phone1">(+</label>
+                        <input type="text" id="Phone1" class="Phone" title="Enter your phone" maxlength="5" required placeholder="359" />
+                        <label for="Phone2">)</label>
+                        <input type="text" id="Phone2" class="Phone" title="Enter your phone" maxlength="5" required placeholder="88" />
+                        <label for="Phone3">-</label>
+                        <input type="text" id="Phone3" class="Phone3" title="Enter your phone" maxlength="10" required placeholder="8334343" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="E-mail">E-mail</label>
+                    </td>
+                    <td colspan="3">
+                        <input type="email" id="E-mail" class="fullLength" pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}"
+                               placeholder="nakov@kaspichan.org">
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="Month">Birth date</label>
+                    </td>
+                    <td colspan="3">
+                        <label for="Month">Month</label>
+                        <input type="text" id="Month" class="TwoDigits" title="Enter your phone" maxlength="2" required placeholder="06" />
+                        <label for="Day">Day</label>
+                        <input type="text" id="Day" class="TwoDigits" title="Enter your phone" maxlength="2" required placeholder="14" />
+                        <label for="Year">Year(4 digit)</label>
+                        <input type="text" id="Year" class="FourDigits" title="Enter your phone" maxlength="4" required placeholder="1980" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="Gender">Gender</label>
+                    </td>
+                    <td colspan="3">
+                        <select id="Gender" title="Enter your gender">
+                            <option>Male</option>
+                            <option>Female</option>
+                            <option>Shemale</option>
+                            <option>Animal</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="StartingDate1">Starting date</label>
+                    </td>
+                    <td colspan="3">
+                        <input type="radio" name="StartingDate" id="StartingDate1" value="Spring 2006" />
+                        <label for="StartingDate1">Spring 2006</label>
+                        <input type="radio" name="StartingDate" id="StartingDate2" value="Summer 2006" />
+                        <label for="StartingDate2">Summer 2006</label>
+                     </td>
+                </tr>
+                <tr>
+                    <td class="firstCol">
+                        <label for="cq">Comments/Questions</label>
+                    </td>
+                    <td colspan="3">
+                        <textarea id="cq" rows="5" title="Enter your comments or questions" placeholder="Please send me more information about the lodging"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <td colspan="4" align="center" bgcolor="#00FFFF">
+                        <input type="submit" value="Sumbit" />
+                        <input type="reset" name="resetBtn" value="Clear This Form" />
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </form>
+</body>
+</html>

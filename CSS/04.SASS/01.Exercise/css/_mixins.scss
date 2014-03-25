@@ -1,0 +1,27 @@
+@mixin clearfix{
+	zoom:1;
+	&:after{
+		display:block; 
+		content:"";
+		height:0; 
+		clear:both; 
+	} 
+}
+
+@mixin padding($top: 0px, $right: 0px, $bottom: 0px, $left: 0px)  {
+	padding: $top $right $bottom $left;
+}
+
+@mixin margin($top: 0px, $right: 0px, $bottom: 0px, $left: 0px)  {
+	margin: $top $right $bottom $left;
+}
+
+@mixin border($color-and-style: 1px solid #000, $radius: 0px) {
+	border: $color-and-style;
+	border-radius: $radius;
+}
+
+@mixin size($width: 100%, $height: 100%) {
+	width: $width;
+	height: $height;
+}
