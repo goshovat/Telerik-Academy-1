@@ -1,0 +1,31 @@
+﻿ul#menu {
+    margin: 0;
+    padding: 0;
+}
+
+ul#menu > li {
+    list-style-type:none;
+    display: inline-block;
+    background-color: yellow;
+    border: 1px dotted black;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+ul#menu > li > a {
+    display: block;
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+}
+
+ul#menu > li > a:hover {
+    text-decoration: underline;
+
+}
+
+div {
+    padding: 5px;
+    display: inline-block;
+    border: 1px solid black;
+}

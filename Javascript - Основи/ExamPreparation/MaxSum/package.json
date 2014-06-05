@@ -1,0 +1,10 @@
+﻿{
+  "name": "MaxSum",
+  "version": "0.0.0",
+  "description": "MaxSum",
+  "main": "app.js",
+  "author": {
+    "name": "Nikolay",
+    "email": ""
+  }
+}

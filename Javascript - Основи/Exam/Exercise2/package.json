@@ -1,0 +1,10 @@
+﻿{
+  "name": "Exercise2",
+  "version": "0.0.0",
+  "description": "Exercise2",
+  "main": "app.js",
+  "author": {
+    "name": "Nikolay",
+    "email": ""
+  }
+}

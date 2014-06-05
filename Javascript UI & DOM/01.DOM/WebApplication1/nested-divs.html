@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Nested divs</title>
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <ul id="menu">
+        <li><a href="nested-divs.html">Selects nested divs</a></li>
+        <li><a href="print-value.html">Print text value</a></li>
+        <li><a href="change-background.html">Change body background</a></li>
+        <li><a href="query-in-old-browsers.html">Shims queries i old browsers</a></li>
+    </ul>
+    <hr />
+    <p>Задача. №1<br />
+        Write a script that selects all the div nodes that are directly inside other div elements<br />
+        Create a function using querySelectorAll()<br />
+        Create a function using getElementsByTagName()<br />
+    </p>
+    <hr />
+    <div>
+        1
+        <div>
+            1.1
+            <div>1.1.1</div>
+            <div>1.1.2</div>
+        </div>
+        <div>
+            1.2
+            <div>1.2.1</div>
+            <div>1.2.2</div>
+    </div>
+    </div>
+
+    <div>
+        nested 1
+        <div>
+            nested 1.1
+            <div>nested 1.1.1</div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <button onclick="findLiveDivs()">Find live divs</button>
+    <button onclick="findStaticDivs()">Find static divs</button>
+    <script src="scripts/nested-divs.js"></script>
+</body>
+</html>

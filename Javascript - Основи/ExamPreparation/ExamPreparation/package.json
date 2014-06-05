@@ -1,0 +1,10 @@
+﻿{
+  "name": "ExamPreparation",
+  "version": "0.0.0",
+  "description": "ExamPreparation",
+  "main": "app.js",
+  "author": {
+    "name": "Nikolay",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "Listy",
+  "version": "0.0.0",
+  "description": "Listy",
+  "main": "app.js",
+  "author": {
+    "name": "Nikolay",
+    "email": ""
+  }
+}
