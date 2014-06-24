@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Tag Cloud</title>
+    <link href="styles/tag-cloud.css" rel="stylesheet" />
+</head>
+<body>
+    <form>
+        <div>
+            <label for="tag-input">Tags:</label>
+            <br />
+            <textarea id="tag-input" rows="5">javascript JavaScript HTML HTML5 CSS CSS3 ecmascript ECMAScript EcmaScript "HTML5 rocks"</textarea>
+        </div>
+        <div>
+            <label>Min Font Size: </label>
+            <input type="range" id="min-font-size" min="8" max="16">
+            <br />
+            <label for="range">Max Font Size: </label>
+            <input type="range" id="max-font-size" min="16" max="32">
+        </div>
+        <br />
+        <button type="submit">Generate</button>
+    </form>
+    <br />
+    <output style="-webkit-transition: all 1s; transition: all 1s; background-color: white;"><span class="tag" style="font-size: 20.5px;">javascript</span><span class="tag" style="font-size: 9px;">html</span><span class="tag" style="font-size: 9px;">html5</span><span class="tag" style="font-size: 9px;">css</span><span class="tag" style="font-size: 9px;">css3</span><span class="tag" style="font-size: 32px;">ecmascript</span><span class="tag" style="font-size: 9px;">"html5 rocks"</span></output>
+    <script src="scripts/tag-cloud.js"></script>
+</body>
+</html>

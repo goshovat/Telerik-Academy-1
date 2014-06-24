@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Grid View</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <link href="styles/grid-view.css" rel="stylesheet" />
+    <script src="scripts/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+    <nav>
+        <ul id="menu">
+            <li><a href="slider.html">Slider</a></li>
+            <li><a href="inser-extension.html">Insert After and Insert Before</a></li>
+            <li><a href="students.html">Make students table</a></li>
+            <li><a href="change-background.html">Change background</a></li>
+            <li><a href="grid-view.html">Grid View</a></li>
+        </ul>
+        <hr />
+        <p>
+            Задача. №5<br />
+            *Implement a GridView control<br />
+            Rows can be added dynamically<br />
+            A header row can be added dynamically<br />
+            Each GridView can have at most one header row<br />
+            Each row can have  a nested GridView<br />
+            Each GridView can have at most one nested GridView<br />
+
+        </p>
+        <hr />
+    </nav>
+    <section>
+        <div id="container">
+            <input id="cols-number" type="text" placeholder="Enter the number of cols" />
+            <button id="create">Create GridView</button>
+            <br />
+        </div>
+    </section>
+    <script src="scripts/grid-view.js"></script>
+</body>
+</html>

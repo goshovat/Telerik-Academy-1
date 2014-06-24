@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\10.JQuery-Plugins\JQuery-Plugins\bin\JQuery-Plugins.dll.config
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\10.JQuery-Plugins\JQuery-Plugins\bin\JQuery-Plugins.dll
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\10.JQuery-Plugins\JQuery-Plugins\bin\JQuery-Plugins.pdb
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\10.JQuery-Plugins\JQuery-Plugins\obj\Debug\JQuery-Plugins.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\10.JQuery-Plugins\JQuery-Plugins\obj\Debug\JQuery-Plugins.dll
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\10.JQuery-Plugins\JQuery-Plugins\obj\Debug\JQuery-Plugins.pdb

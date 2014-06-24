@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\04.SVG\SVG\bin\SVG.dll.config
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\04.SVG\SVG\bin\SVG.dll
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\04.SVG\SVG\bin\SVG.pdb
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\04.SVG\SVG\obj\Debug\SVG.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\04.SVG\SVG\obj\Debug\SVG.dll
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\04.SVG\SVG\obj\Debug\SVG.pdb

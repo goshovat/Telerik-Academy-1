@@ -1,0 +1,14 @@
+﻿body > div.mean {
+    display: inline-block;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+
+body > div.windows {
+    display: inline-block;
+    border: 1px solid black;
+    width: 1057.868px;
+    text-align: center;
+}

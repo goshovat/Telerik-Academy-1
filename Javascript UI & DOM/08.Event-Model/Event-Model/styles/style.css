@@ -1,0 +1,7 @@
+﻿div {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+    width: 210px;
+}

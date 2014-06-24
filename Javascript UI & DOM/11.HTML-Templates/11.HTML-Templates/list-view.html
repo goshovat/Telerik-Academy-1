@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Select</title>
+    <link href="styles/table.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>li template with data-template</h1>
+    <ul id="books-list" data-template="book-item-template"></ul>
+    <script id="book-item-template" type="text/x-handlebars-template">
+        <li class="book-item">
+            <a href="/#books/{{id}}">
+                <strong>{{title}}</strong>
+            </a>
+        </li>
+    </script>
+    <h1>tr template with data-template</h1>
+    <table>
+        <thead>
+            <tr><th>#</th><th>Name</th><th>Mark</th></tr>
+        </thead>
+        <tbody id="students-table" data-template="students-row-template"></tbody>
+    </table>
+    <script id="students-row-template" type="…">
+        <tr class="student-row">
+            <td>{{number}}</td>
+            <td>{{name}}</td>
+            <td>{{mark}}</td>
+        </tr>
+    </script>
+    <br />
+    <h1>li template with template inside DOM object</h1>
+    <ul id="books-list-without-data-template">
+        <li class="book-item">
+            <a href="/#books/{{id}}">
+                <strong>{{title}}</strong>
+            </a>
+        </li>
+    </ul>
+    <h1>tr template with template inside DOM object</h1>
+    <table>
+        <thead>
+            <tr><th>#</th><th>Name</th><th>Mark</th></tr>
+        </thead>
+        <tbody id="students-table-without-data-template">
+            <tr class="student-row">
+                <td>{{number}}</td>
+                <td>{{name}}</td>
+                <td>{{mark}}</td>
+            </tr>
+        </tbody>
+    </table>
+    <script src="scripts/jquery-1.11.1.min.js"></script>
+    <script src="scripts/handlebars-v1.3.0.js"></script>
+    <script src="scripts/list-view.js"></script>
+</body>
+</html>

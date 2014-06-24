@@ -1,0 +1,25 @@
+﻿table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+thead {
+    background-color: #A6A6A6;
+    color: white;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+tbody tr:nth-of-type(2n+1) {
+    background-color: white;
+}
+
+tbody tr:nth-of-type(2n) {
+    background-color: #D9D9D9;
+}
+
+td:first-of-type {
+    text-align: center;
+}

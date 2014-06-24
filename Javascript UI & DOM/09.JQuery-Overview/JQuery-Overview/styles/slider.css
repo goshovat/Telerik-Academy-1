@@ -1,0 +1,40 @@
+﻿#container {
+    width: 500px;
+    height: 350px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+    #container > * {
+        width: 500px;
+        height: 350px;
+    }
+
+#wrapper > button {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 11px;
+    background: white;
+}
+
+#next {
+    top: 120px;
+    right: 5px;
+}
+
+#previous {
+    top: 120px;
+    left: 5px;
+}
+
+
+#wrapper {
+    position: relative;
+    width: 500px;
+    height: 350px;
+}

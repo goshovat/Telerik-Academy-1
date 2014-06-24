@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\Exam-preparation-task-files\Exam-preparation-task-files\task2\Zad 2\Zad 2\bin\Zad 2.dll.config
+C:\Users\Nikolay\Desktop\Exam-preparation-task-files\Exam-preparation-task-files\task2\Zad 2\Zad 2\bin\Zad 2.dll
+C:\Users\Nikolay\Desktop\Exam-preparation-task-files\Exam-preparation-task-files\task2\Zad 2\Zad 2\bin\Zad 2.pdb
+C:\Users\Nikolay\Desktop\Exam-preparation-task-files\Exam-preparation-task-files\task2\Zad 2\Zad 2\obj\Debug\Zad 2.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Exam-preparation-task-files\Exam-preparation-task-files\task2\Zad 2\Zad 2\obj\Debug\Zad 2.dll
+C:\Users\Nikolay\Desktop\Exam-preparation-task-files\Exam-preparation-task-files\task2\Zad 2\Zad 2\obj\Debug\Zad 2.pdb

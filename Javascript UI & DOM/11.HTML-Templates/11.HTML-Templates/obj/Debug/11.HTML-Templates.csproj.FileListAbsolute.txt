@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\11.HTML-Templates\11.HTML-Templates\bin\11.HTML-Templates.dll.config
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\11.HTML-Templates\11.HTML-Templates\bin\11.HTML-Templates.dll
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\11.HTML-Templates\11.HTML-Templates\bin\11.HTML-Templates.pdb
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\11.HTML-Templates\11.HTML-Templates\obj\Debug\11.HTML-Templates.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\11.HTML-Templates\11.HTML-Templates\obj\Debug\11.HTML-Templates.dll
+D:\Documents\Telerik Courses homeworks\Javascript UI & DOM\11.HTML-Templates\11.HTML-Templates\obj\Debug\11.HTML-Templates.pdb

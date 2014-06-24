@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>MEAN</title>
+    <link href="styles/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="mean">
+        <label> Pure SVG</label>
+        <br />
+        <div>
+            <svg width="500" height="500">
+                <text x="140" y="140" font-size="40px" font-weight="bold" font-family="Arial" fill="#3E3F37">M</text>
+                <text x="140" y="200" font-size="40px" font-weight="bold" font-family="Arial" fill="#282827">E</text>
+                <text x="140" y="260" font-size="40px" font-weight="bold" font-family="Arial" fill="#E23337">A</text>
+                <text x="140" y="320" font-size="40px" font-weight="bold" font-family="Arial" fill="#8EC74E">N</text>
+                <circle cx="250" cy="130" r="60" stroke='none' fill="#3E3F37">
+
+                </circle>
+                <path fill="#5EB14A" d="M 250 95 C225 120 225 150 250 150" />
+                <path fill="#449644" d="M 250 95 C275 120 275 150 250 150" />
+                <circle cx="250" cy="190" r="60" stroke='none' fill="#282827">
+
+                </circle>
+                <text x="200" y="191" font-size="26px" font-weight="bold" font-family="consolas" fill="white">express</text>
+                <circle cx="250" cy="250" r="60" stroke='none' fill="#E23337">
+
+                </circle>
+                <path stroke="#B3B3B3" fill="#B63032" stroke-width="3" d="M 250 215 L285 230 L275 300 L250 300" />
+                <path stroke="#B3B3B3" fill="#E23337" stroke-width="3" d="M 250 215 L215 230 L225 300 L250 300" />
+                <path stroke="#FFFFFF" fill="#FFFFFF" stroke-width="1" d="M 250 220 L220 280 L230 280 L 250 235" />
+                <path stroke="#B3B3B3" fill="#B3B3B3" stroke-width="1" d="M 250 220 L280 280 L270 280 L250 235" />
+                <circle cx="250" cy="310" r="60" stroke='none' fill="#8EC74E">
+
+                </circle>
+                <image xlink:href="pictures/node-logo.svg" x="205" y="275" width="125" height="65"></image>
+            </svg>
+        </div>
+    </div>
+    <div class="mean">
+        <label>SVG DOM API and JavaScript</label>
+        <br />
+        <div id="svg-js"></div>
+    </div>
+    <script src="scripts/mean.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Table</title>
+    <link href="styles/table.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="root"></div>
+    <script id="post-template" type="text/x-handlebars-template">
+        <table>
+            <thead>
+                <tr>
+                    <th>№</th>
+                    <th>Title</th>
+                    <th>Date #1</th>
+                    <th>Date #2</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#lectures}}
+                    <tr>
+                        <td>{{id}}</td>
+                        <td>{{title}}</td>
+                        <td>{{firstDate}}</td>
+                        <td>{{secondDate}}</td>
+                    </tr>
+                {{/lectures}}
+            </tbody>
+        </table>
+    </script>
+    <script src="scripts/handlebars-v1.3.0.js"></script>
+    <script src="scripts/table.js"></script>
+</body>
+</html>
