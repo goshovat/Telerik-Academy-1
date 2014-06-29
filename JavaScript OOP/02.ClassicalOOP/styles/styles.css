@@ -1,0 +1,88 @@
+ul, li, div, select, option, input, label, form, canvas, h1 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Consolas';
+}
+
+input{
+    width: 100px;
+    margin: 5px 0;
+}
+
+div#wrapper {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border: 4px dashed black;
+    color: white;
+    background: #90db90; /* Old browsers */
+    background: -moz-linear-gradient(top,  #90db90 0%, #65c665 17%, #52b152 33%, #008a00 67%, #005700 83%, #002400 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#90db90), color-stop(17%,#65c665), color-stop(33%,#52b152), color-stop(67%,#008a00), color-stop(83%,#005700), color-stop(100%,#002400)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #90db90 0%,#65c665 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #90db90 0%,#65c665 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #90db90 0%,#65c665 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #90db90 0%,#65c665 17%,#52b152 33%,#008a00 67%,#005700 83%,#002400 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#90db90', endColorstr='#002400',GradientType=0 ); /* IE6-9 */
+
+}
+
+div#wrapper h1 {
+    margin-bottom: 20px;
+    background-color: #088E08;
+    border: 1px dashed black;
+    box-shadow: 0 0 10px #888888;
+    color: #ffde14;
+}
+
+div#wrapper section {
+    width: 480px;
+    height: 270px;
+    text-align: right;
+}
+
+div#wrapper section select {
+    width: 100px;
+    margin: 5px 8px 5px 0;
+    background-color: yellow;
+    border: 1px solid black;
+    box-shadow: 0 1px 5px white;
+}
+
+div#wrapper section select option {
+    background-color: #c1c100;
+    color: white;
+}
+
+div#wrapper section li {
+    display: none;
+}
+
+div#wrapper section li.selected {
+    display: block;
+}
+
+div#wrapper section li input{
+    background-color: yellow;
+    border: 1px solid black;
+    box-shadow: 0 1px 5px white;
+}
+
+div#wrapper section > input {
+    background-color: #ffcd06;
+    border: 1px solid black;
+    box-shadow: 0 1px 5px white;
+}
+
+div#wrapper section > input[type="submit"] {
+    background-color: greenyellow;
+    height: 30px;
+    width: 200px;
+}
+
+div#wrapper canvas {
+	border: 1px solid black;
+    background-color: white;
+    margin-top: 20px;
+}

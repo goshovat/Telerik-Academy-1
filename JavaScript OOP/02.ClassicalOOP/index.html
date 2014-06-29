@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Canvas Drawer</title>
+    <link rel="stylesheet" href="styles/styles.css"/>
+</head>
+<body>
+    <div id="wrapper">
+        <h1>Canvas Drawer</h1>
+        <form id="draw-form" name="input" action="#canvas">
+            <section>
+                <label for="select-drawer">Draw:</label>
+                <select id="select-drawer">
+                    <option value="rect">Rect</option>
+                    <option value="circle">Circle</option>
+                    <option value="line">Line</option>
+                </select>
+                <ul>
+                    <li id="li-rect" class="selected">
+                        <label for="li-rect-x">X:</label>
+                        <input id="li-rect-x" type="number" min='0' step='Any' title="Rectangle's left top coordinate X" required />
+                        <br/>
+                        <label for="li-rect-y">Y:</label>
+                        <input id="li-rect-y" type="number" min='0' step='Any' required="required" title="Rectangle's left top coordinate Y"/>
+                        <br/>
+                        <label for="li-rect-width">Width:</label>
+                        <input id="li-rect-width" type="number" min='0' step='Any' required="required" title="Rectangle's width"/>
+                        <br/>
+                        <label for="li-rect-height">Height:</label>
+                        <input id="li-rect-height" type="number" min='0' step='Any' title="Rectangle's height" required="required" />
+                        <br/>
+                    </li>
+                    <li id="li-circle">
+                        <label for="li-circle-x">X:</label>
+                        <input id="li-circle-x" type="number" min='0' step='Any' title="Circle's center coordinate X"/>
+                        <br/>
+                        <label for="li-circle-y">Y:</label>
+                        <input id="li-circle-y" type="number" min='0' step='Any' title="Circle's center coordinate Y"/>
+                        <br/>
+                        <label for="li-circle-radius">Radius:</label>
+                        <input id="li-circle-radius" type="number" min='0' step='Any' title="Circle's radius"/>
+                        <br/>
+                    </li>
+                    <li id="li-line">
+                        <label for="li-line-x1">X1:</label>
+                        <input id="li-line-x1" type="number" min='0' step='Any' title="Line's start point coordinate X"/>
+                        <br/>
+                        <label for="li-line-y1">Y1:</label>
+                        <input id="li-line-y1" type="number" min='0' step='Any' title="Line's start point coordinate Y"/>
+                        <br/>
+                        <label for="li-line-x2">X2:</label>
+                        <input id="li-line-x2" type="number" min='0' step='Any' title="Line's end point coordinate X"/>
+                        <br/>
+                        <label for="li-line-y2">Y2:</label>
+                        <input id="li-line-y2" type="number" min='0' step='Any' title="Line's end point coordinate Y"/>
+                        <br/>
+                    </li>
+                </ul>
+
+                <label for="stroke-width">Stroke line:</label>
+                <input id="stroke-width" type="number" min='0' step='Any' />
+                <br/>
+                <label for="fill-color">Fill color:</label>
+                <input id="fill-color" type="color"/>
+                <br/>
+                <label for="stroke-color">Stroke color:</label>
+                <input id="stroke-color" type="color"/>
+                <br/>
+                <input type="submit" id="draw" value="Draw">
+                <br/>
+            </section>
+        </form>
+        <canvas width="740" height="400" id="canvas"></canvas>
+    </div>
+    <script src="scripts/canvas-module.js"></script>
+    <script src="scripts/logic.js"></script>
+</body>
+</html>
