@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>World Cup</title>
+    <link rel="stylesheet" href="styles/styles.css"/>
+</head>
+<body>
+    <h1>Who will be the winner?</h1>
+    <div id="dropdown-teams">
+        <div id="selected-option"></div>
+        <div id="options-teams">
+            <div id="container">
+            </div>
+        </div>
+    </div>
+
+    <script id="team-template" type="text/x-handlebars-template">
+        {{#people }}
+        <div class="team-item">
+            <img src="{{avatarUrl}}" />
+            <strong class="team-name">{{name}}</strong>
+            <p class="team-titles">Titles: {{titles}}</p>
+
+        </div>
+        {{/people }}
+    </script>
+    <script src="scripts/libs/require.js" data-main="scripts/app" ></script>
+</body>
+</html>
