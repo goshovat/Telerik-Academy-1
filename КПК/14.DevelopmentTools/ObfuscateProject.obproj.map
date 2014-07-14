@@ -1,0 +1,17 @@
+﻿<Mappings><Entry OldName="DevelopmentTools.LogForNetExample.logger" NewName="A.c50efbedb167e6353f9142ca63589a467.cd3d8bdfbbb3bf35b36e614c18939f100" />
+<Entry OldName="DevelopmentTools.LogForNetExample..ctor()" NewName="A.c50efbedb167e6353f9142ca63589a467..ctor()" />
+<Entry OldName="DevelopmentTools.LogForNetExample..cctor()" NewName="A.c50efbedb167e6353f9142ca63589a467..cctor()" />
+<Entry OldName="DevelopmentTools.LogForNetExample.Main(String[] args)" NewName="A.c50efbedb167e6353f9142ca63589a467.c19f0c1f42c0768e76a84840a27d75938(String[] ca0fc403802fdbe97376df0552d360367)" />
+<Entry OldName="DevelopmentTools.LogForNetExample" NewName="A.c50efbedb167e6353f9142ca63589a467" />
+<Entry OldName="d:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools\DevelopmentTools\LogForNetExample.cs" NewName="File0" />
+<Assembly Name="DevelopmentTools"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="DevelopmentTools.LogForNetExample" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="Main" Variables="args;" ParamCnt="1" />
+<Field Token="67108865" Name="logger" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663301" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="d:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools\DevelopmentTools\LogForNetExample.cs" NewName="File0" />
+</Mappings>

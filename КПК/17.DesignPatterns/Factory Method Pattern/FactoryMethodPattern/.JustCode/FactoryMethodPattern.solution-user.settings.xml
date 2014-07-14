@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="5f37b2aa-1607-4417-b559-de39198b48b9">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>FactoryMethodPattern/Asus.cs</FileRelativePath>
+        <ProjectRelativePath>FactoryMethodPattern/FactoryMethodPattern.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>12695411153618276925</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

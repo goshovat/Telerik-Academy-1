@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="0ce7b48e-d8b9-42fc-b123-6f0e11e237bb">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>PokerHandsChecker.cs</FileRelativePath>
+        <ProjectRelativePath>Poker.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>11926819669942911101</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

@@ -1,0 +1,17 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+namespace DevelopmentTools
+{
+	public class TextTemplateExample
+	{
+	<# 
+	string[] properties = new string[]{"firstName", "lastName", "age"};
+
+	for(int i = 0; i < properties.Length; i++) { #>
+		public int <#=properties[i]#> { get; set; }
+	<# } #>
+	}
+}
