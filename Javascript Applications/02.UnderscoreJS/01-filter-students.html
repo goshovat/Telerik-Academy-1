@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Underscore homework</title>
+    <link href="styles/styles.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <nav>
+                <select id="selected-task">
+                    <option value="1">Task 1</option>
+                    <option value="2">Task 2</option>
+                    <option value="3">Task 3</option>
+                    <option value="4">Task 4</option>
+                    <option value="5">Task 5</option>
+                    <option value="6">Task 6</option>
+                    <option value="7">Task 7</option>
+                </select>
+            </nav>
+        </header>
+        <section>
+            <div id="container"></div>
+        </section>
+    </div>
+    <script id="template" type="text/x-handlebars-template">
+        <h1 id="task">Task: {{task}}</h1>
+        <div id="elements">
+            <h2>Elements</h2>
+            {{#elements}}
+            <div class="element">{{this}}</div>
+            {{/elements}}
+        </div>
+        <div id="result">
+            <h2>Result</h2>
+            {{#result}}
+            <div class="element-result">{{this}}</div>
+            {{/result}}
+        </div>
+    </script>
+    <script src="scripts/libs/require.js" data-main="scripts/app"></script>
+</body>
+</html>
