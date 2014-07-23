@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Game - Rams and Sheeps </title>
+    <link href="styles/styles.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="wrapper">
+    <h1>Rams and Sheeps</h1>
+
+    <div id="game">
+        <img src="images/question.png" class="question" title="number 1"/>
+        <img src="images/question.png" class="question" title="number 2"/>
+        <img src="images/question.png" class="question" title="number 3"/>
+        <img src="images/question.png" class="question" title="number 4"/>
+        <br/>
+        <label>Points: </label>
+        <label id="points">0</label>
+        <br/>
+        <input type="text" id="inputed-number" placeholder="Enter a number between 1000 and 9999"/>
+        <button id="check">Check</button>
+    </div>
+    <div id="result">
+        <h2>Rams:</h2>
+        <img src="images/ram.png" class="ram invisible" title="ram"/>
+        <img src="images/ram.png" class="ram invisible" title="ram"/>
+        <img src="images/ram.png" class="ram invisible" title="ram"/>
+        <img src="images/ram.png" class="ram invisible" title="ram"/>
+        <br/>
+
+        <h2>Sheeps:</h2>
+        <img src="images/sheep.png" class="sheep invisible" title="sheep"/>
+        <img src="images/sheep.png" class="sheep invisible" title="sheep"/>
+        <img src="images/sheep.png" class="sheep invisible" title="sheep"/>
+        <img src="images/sheep.png" class="sheep invisible" title="sheep"/>
+    </div>
+    <div id="game-finish" class="invisible">
+        <label for="nickname">Nickname: </label>
+        <input type="text" id="nickname"/>
+        <button id="add-score">Save score</button>
+    </div>
+    <div id="score-board" class="invisible">
+        <div id="scroller">
+            <div id="scores"></div>
+        </div>
+        <button id="play-again">Play Again</button>
+    </div>
+</div>
+<script src="scripts/web-storage-objects.js"></script>
+<script src="scripts/rams-and-sheeps.js"></script>
+</body>
+</html>
