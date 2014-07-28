@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Consuming remote data with JavaScript: HTTP Requests with jQuery AJAX</title>
+	<script src="scripts/jquery-2.0.2.js"></script>
+	<style type="text/css">
+		.info{
+			font-size: 0.9em;
+			font-style: italic;
+			border: 1px solid orange;
+			display: block;
+			padding:5px 15px;
+			width: 250px;
+			margin: 0 auto;
+			text-indent: 0;
+		}
+
+		.message.success{
+			color: green;
+		}
+		.message.error{
+			color: red;
+		}
+		.message.error, .message.success{
+			display: none;
+		}
+
+		.student-item strong:before{
+			content: ', Name: ';
+		}
+
+		.student-item span:before{
+			content: ', Grade: ';
+		}
+
+        .student-item em:before{
+            content: 'ID: ';
+        }
+	</style>
+</head>
+<body>
+	<label for="tb-name">Name: </label>
+	<input id="tb-name" name="tb-name" type="text" placeholder="pesho"/>
+	<br/>
+	<label for="tb-grade">Grade: </label>
+	<input id="tb-grade" name="tb-grade" type="number" min='1' max='12' placeholder="2"/>
+	<br/>
+	<button id='btn-add-student'>Add new student</button>
+    <br/>
+    <label for="tb-id">ID:</label>
+    <input type="text" id="tb-id" placeholder="1"/>
+    <br/>
+    <button id='btn-delete-student'>Delete student by ID</button>
+	<div class="messages">
+		<strong class="message success">
+		</strong>
+		<strong class="message error">
+		</strong>
+	</div>
+	<div id="students-container"></div>
+	<script src="scripts/scripts.js"></script>
+	<p class='info'>This web page should be run on a server (localhost or in WWW) and the server app.js also must be started with node.js.</p>
+</body>
+</html>
