@@ -1,0 +1,6 @@
+The Project must be run on server to run correctly. The project is created by WebStorm, so you can open it with this software or make new ASP.NET Empty Project in Visual Studio and add the files. You can see how the SPA should looks like, if you can't start the project:
+
+- log-in.html.png - that is the start screen
+- chat.html.png - that is the chat room.
+
+Thank you, have a good day :)

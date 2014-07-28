@@ -1,0 +1,16 @@
+<script id="chat-template" type="text/x-handlebars-template">
+    <div id="chat-room-container">
+        <span id="user-{{username}}" class="caption">Hello, <strong><em>{{{username}}}</em></strong></span>
+        <span id="log-out">Log out</span>
+        <div id="scroller">
+        {{#messages}}
+            <span id="user-{{id}}" class="message"><strong>{{{by}}}</strong>: {{{text}}}</span>
+            <br/>
+        {{/messages}}
+        </div>
+        <div id="post-message-container">
+            <input type="text" id="message-to-post"/>
+            <button id="post-message">Post</button>
+        </div>
+    </div>
+</script>
