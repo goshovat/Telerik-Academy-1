@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\Chef\bin\Debug\Chef.exe.config
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\Chef\obj\Debug\Chef.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\Chef\bin\Debug\Chef.exe
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\Chef\bin\Debug\Chef.pdb
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\Chef\obj\Debug\Chef.exe
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\Chef\obj\Debug\Chef.pdb

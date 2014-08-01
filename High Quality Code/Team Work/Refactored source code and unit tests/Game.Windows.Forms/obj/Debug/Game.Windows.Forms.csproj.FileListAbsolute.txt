@@ -1,0 +1,17 @@
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.Windows.Forms.exe.config
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.Windows.Forms.exe
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.Windows.Forms.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.Common.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.Core.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.UI.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.UI.Windows.Forms.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.Common.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.Core.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.UI.Windows.Forms.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\bin\Debug\Game.UI.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\obj\Debug\Game.Windows.Forms.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\obj\Debug\Game.Windows.Forms.MainForm.resources
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\obj\Debug\Game.Windows.Forms.Properties.Resources.resources
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\obj\Debug\Game.Windows.Forms.csproj.GenerateResource.Cache
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\obj\Debug\Game.Windows.Forms.exe
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Forms\obj\Debug\Game.Windows.Forms.pdb

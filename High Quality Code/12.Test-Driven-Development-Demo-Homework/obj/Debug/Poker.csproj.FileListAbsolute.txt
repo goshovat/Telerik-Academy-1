@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\КПК\12.Test-Driven-Development-Demo-Homework\bin\Debug\Poker.exe
+D:\Documents\Telerik Courses homeworks\КПК\12.Test-Driven-Development-Demo-Homework\bin\Debug\Poker.pdb
+D:\Documents\Telerik Courses homeworks\КПК\12.Test-Driven-Development-Demo-Homework\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\КПК\12.Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+D:\Documents\Telerik Courses homeworks\КПК\12.Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb

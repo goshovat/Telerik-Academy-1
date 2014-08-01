@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevelopmentTools</name>
+    </assembly>
+    <members>
+        <member name="F:DevelopmentTools.LogForNetExample.logger">
+            <summary>
+            The logger
+            </summary>
+        </member>
+        <member name="M:DevelopmentTools.LogForNetExample.Main(System.String[])">
+            <summary>
+            Test log4net
+            </summary>
+            <param name="args">starting parameters</param>
+        </member>
+    </members>
+</doc>

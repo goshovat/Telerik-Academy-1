@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{34C92930-54B7-48F6-8ED6-EA35C0AF964E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game.UI</RootNamespace>
+    <AssemblyName>Game.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IDefaultUIEngineSettings.cs" />
+    <Compile Include="IOProviders\IInputProvider.cs" />
+    <Compile Include="IOProviders\IIOProvider.cs" />
+    <Compile Include="IOProviders\IOStyleType.cs" />
+    <Compile Include="IDefaultUIEngine.cs" />
+    <Compile Include="IOProviders\IOutputProvider.cs" />
+    <Compile Include="IUIEngine.cs" />
+    <Compile Include="DefaultUIEngineSettings.cs" />
+    <Compile Include="IUIEngineSettings.cs" />
+    <Compile Include="KeyMappings\IKeyMapping.cs" />
+    <Compile Include="IOProviders\Settings\DefaultIOProviderSettings.cs" />
+    <Compile Include="IOProviders\Settings\IIOProviderSettings.cs" />
+    <Compile Include="Renderers\DefaultChooseDifficultyRenderer.cs" />
+    <Compile Include="Renderers\DefaultEndRenderer.cs" />
+    <Compile Include="Renderers\DefaultExitRenderer.cs" />
+    <Compile Include="Renderers\DefaultHelpDisplayRenderer.cs" />
+    <Compile Include="Renderers\DefaultIllegalMoveRenderer.cs" />
+    <Compile Include="Renderers\DefaultIllegalCommandRenderer.cs" />
+    <Compile Include="Renderers\DefaultInvalidInputRenderer.cs" />
+    <Compile Include="Renderers\DefaultScoreRenderer.cs" />
+    <Compile Include="Renderers\DefaultFieldRenderer.cs" />
+    <Compile Include="Renderers\DefaultStartRenderer.cs" />
+    <Compile Include="Renderers\IRenderer_1.cs" />
+    <Compile Include="Renderers\IRenderer_2.cs" />
+    <Compile Include="UIEngine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="IOProviders\IOProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Game.Common\Game.Common.csproj">
+      <Project>{f0f3c450-90b5-4c57-a77e-4d4f208d7eab}</Project>
+      <Name>Game.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

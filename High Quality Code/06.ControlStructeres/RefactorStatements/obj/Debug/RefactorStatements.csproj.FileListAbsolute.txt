@@ -1,0 +1,8 @@
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorStatements\bin\Debug\RefactorStatements.exe.config
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorStatements\bin\Debug\RefactorStatements.exe
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorStatements\bin\Debug\RefactorStatements.pdb
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorStatements\bin\Debug\Chef.exe
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorStatements\bin\Debug\Chef.pdb
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorStatements\obj\Debug\RefactorStatements.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorStatements\obj\Debug\RefactorStatements.exe
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorStatements\obj\Debug\RefactorStatements.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\КПК\13.CodeRefactoring\Matix\bin\Debug\Matix.exe.config
+D:\Documents\Telerik Courses homeworks\КПК\13.CodeRefactoring\Matix\bin\Debug\Matix.exe
+D:\Documents\Telerik Courses homeworks\КПК\13.CodeRefactoring\Matix\bin\Debug\Matix.pdb
+D:\Documents\Telerik Courses homeworks\КПК\13.CodeRefactoring\Matix\obj\Debug\Matix.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\КПК\13.CodeRefactoring\Matix\obj\Debug\Matix.exe
+D:\Documents\Telerik Courses homeworks\КПК\13.CodeRefactoring\Matix\obj\Debug\Matix.pdb

@@ -1,0 +1,9 @@
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\bin\Debug\Game.Core.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\bin\Debug\Game.Core.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\bin\Debug\Game.Common.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\bin\Debug\Game.UI.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\bin\Debug\Game.Common.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\bin\Debug\Game.UI.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\obj\Debug\Game.Core.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\obj\Debug\Game.Core.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Core\obj\Debug\Game.Core.pdb

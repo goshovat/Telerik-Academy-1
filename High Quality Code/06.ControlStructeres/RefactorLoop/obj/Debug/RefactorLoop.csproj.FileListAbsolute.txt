@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorLoop\bin\Debug\RefactorLoop.exe.config
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorLoop\bin\Debug\RefactorLoop.exe
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorLoop\bin\Debug\RefactorLoop.pdb
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorLoop\obj\Debug\RefactorLoop.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorLoop\obj\Debug\RefactorLoop.exe
+D:\Documents\Telerik Courses homeworks\КПК\06.ControlStructeres\RefactorLoop\obj\Debug\RefactorLoop.pdb

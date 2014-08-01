@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder" version="2014.4.22.0" projectFile="D:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools\SandCastle.shfbproj" started="24.6.2014 г. 22:37:51">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Locating components in the following folder(s):
+   D:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools
+Using presentation style &#39;VS2005&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2005&#39;
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: D:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.exe
+    Found assembly &#39;D:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.exe&#39;
+Source: D:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.xml
+
+Copying XML comments files
+    D:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.XML -&gt; D:\Documents\Telerik Courses homeworks\КПК\14.DevelopmentTools\DevelopmentTools\bin\Debug\Working\DevelopmentTools.XML
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+    Last step completed in 00:00:00.0040
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0020
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 24.6.2014 Ј. 22:37:52.
+Project &quot;D:\Documents\Telerik Courses homeworks\ЉЏЉ\14.DevelopmentTools\DevelopmentTools\bin\Debug\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 0 namespaces, 0 types, and 0 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;D:\Documents\Telerik Courses homeworks\ЉЏЉ\14.DevelopmentTools\DevelopmentTools\bin\Debug\Working\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24
+    Last step completed in 00:00:01.4491
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 24.6.2014 Ј. 22:37:53.
+Project &quot;D:\Documents\Telerik Courses homeworks\ЉЏЉ\14.DevelopmentTools\DevelopmentTools\bin\Debug\Working\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+  XslTransform (v2014.1.26.0)
+  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;D:\Documents\Telerik Courses homeworks\ЉЏЉ\14.DevelopmentTools\DevelopmentTools\bin\Debug\Working\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.44
+    Last step completed in 00:00:00.6393
+</buildStep>
+<buildStep step="Failed">
+
+SHFB: Error BE0033: No APIs found to document.  See error topic in help file for details.
+   at SandcastleBuilder.Utils.BuildEngine.BuildProcess.Build()
+
+</buildStep>
+</shfbBuild>

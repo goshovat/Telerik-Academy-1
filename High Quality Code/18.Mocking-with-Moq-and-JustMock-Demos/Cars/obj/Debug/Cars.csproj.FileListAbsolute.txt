@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\High Quality Code\18.Mocking-with-Moq-and-JustMock-Demos\Cars\bin\Debug\Cars.dll
+D:\Documents\Telerik Courses homeworks\High Quality Code\18.Mocking-with-Moq-and-JustMock-Demos\Cars\bin\Debug\Cars.pdb
+D:\Documents\Telerik Courses homeworks\High Quality Code\18.Mocking-with-Moq-and-JustMock-Demos\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\High Quality Code\18.Mocking-with-Moq-and-JustMock-Demos\Cars\obj\Debug\Cars.dll
+D:\Documents\Telerik Courses homeworks\High Quality Code\18.Mocking-with-Moq-and-JustMock-Demos\Cars\obj\Debug\Cars.pdb

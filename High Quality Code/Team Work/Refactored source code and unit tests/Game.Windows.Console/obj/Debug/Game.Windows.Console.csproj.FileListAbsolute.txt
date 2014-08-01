@@ -1,0 +1,14 @@
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.App.exe.config
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.App.exe
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.App.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.Common.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.Core.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.UI.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.UI.Windows.Console.dll
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.Common.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.Core.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.UI.Windows.Console.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\bin\Debug\Game.UI.pdb
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\obj\Debug\Game.Windows.Console.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\obj\Debug\Game.App.exe
+D:\Documents\Telerik Courses homeworks\Game Fifteen-5\Refactored source code and unit tests\Game.Windows.Console\obj\Debug\Game.App.pdb

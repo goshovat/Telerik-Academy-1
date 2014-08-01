@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\КПК\04.UsingVariables\PrintStatistics\bin\Debug\PrintStatistics.exe.config
+D:\Documents\Telerik Courses homeworks\КПК\04.UsingVariables\PrintStatistics\bin\Debug\PrintStatistics.exe
+D:\Documents\Telerik Courses homeworks\КПК\04.UsingVariables\PrintStatistics\bin\Debug\PrintStatistics.pdb
+D:\Documents\Telerik Courses homeworks\КПК\04.UsingVariables\PrintStatistics\obj\Debug\PrintStatistics.exe
+D:\Documents\Telerik Courses homeworks\КПК\04.UsingVariables\PrintStatistics\obj\Debug\PrintStatistics.pdb
