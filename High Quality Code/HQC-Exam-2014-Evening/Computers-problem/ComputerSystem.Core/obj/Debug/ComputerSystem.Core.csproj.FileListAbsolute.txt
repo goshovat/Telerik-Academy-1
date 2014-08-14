@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Core\bin\Debug\ComputerSystem.Core.dll.config
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Core\bin\Debug\ComputerSystem.Core.dll
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Core\bin\Debug\ComputerSystem.Core.pdb
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Core\obj\Debug\ComputerSystem.Core.dll
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Core\obj\Debug\ComputerSystem.Core.pdb
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Core\obj\Debug\ComputerSystem.Core.csprojResolveAssemblyReference.cache

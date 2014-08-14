@@ -1,0 +1,41 @@
+Design pattern: Simple Factory
+	* ManufacturerFactory.cs
+
+Design pattern: Strategy
+	* ComputerCreator.cs използване в EntryPoint.cs
+
+Design pattern: Template Method
+	* TemplateFactory.cs, ManufacturerFactory.cs и NewManufacturerFactory.cs
+
+Design pattern: Abstract factory
+	* ComputerFactory.cs, Dell.cs и HP.cs
+
+Design pattern: Composite
+	* HardDriveComponent.cs , HardDrive.cs и Raid.cs
+
+Design pattern: Mediator
+	* Motherboard.cs
+
+Found bottlenecks:
+	* При генериране на случайно число има непотребен цикъл.
+	* 
+
+Found bugs:
+	* Когато CPU изчислява квадрата на число получено от Ram.
+	* В конструкора на CPU не се инициализираше VideoCard с подадената му стойност
+	* Когато се изписва Battery status: е забравен % накрая.
+
+Single responsibility principle
+	* HardDrive.cs, Cpu.cs, Ram.cs и т.н.
+
+Open/closed principle
+	* ManufacturerFactory.cs, new ManufacturerFactory.cs
+
+Liskov substitution principle
+	* TemplateFactory.cs, ManufacturerFactory.cs и NewManufacturerFactory.cs
+
+Interface segregation principle
+	* IBattery.cs, ICOmputer.cs, IPlayable.cs, IRequestable.cs
+
+Dependency inversion principle
+	* Laptop.cs, Server.cs, PersonalComputer.cs

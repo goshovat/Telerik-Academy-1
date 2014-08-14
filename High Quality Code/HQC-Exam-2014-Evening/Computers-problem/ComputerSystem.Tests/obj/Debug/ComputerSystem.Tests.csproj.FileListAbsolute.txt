@@ -1,0 +1,18 @@
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\ComputerSystem.Tests.dll
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\ComputerSystem.Tests.pdb
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\ComputerSystem.Core.dll
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\ComputerSystem.Core.pdb
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\obj\Debug\ComputerSystem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\obj\Debug\ComputerSystem.Tests.dll
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\obj\Debug\ComputerSystem.Tests.pdb
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\Telerik.JustMock.dll
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\Telerik.JustMock.xml
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\ComputerSystem.Tests.dll
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\ComputerSystem.Tests.pdb
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\ComputerSystem.Core.dll
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\Telerik.JustMock.dll
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\ComputerSystem.Core.pdb
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\bin\Debug\Telerik.JustMock.xml
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\obj\Debug\ComputerSystem.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\obj\Debug\ComputerSystem.Tests.dll
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem.Tests\obj\Debug\ComputerSystem.Tests.pdb

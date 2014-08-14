@@ -1,0 +1,11 @@
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\bin\Debug\ComputerSystem.exe.config
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\bin\Debug\ComputerSystem.exe
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\bin\Debug\ComputerSystem.pdb
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\bin\Debug\ComputerSystem.Core.dll
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\bin\Debug\ComputerSystem.Core.pdb
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\obj\Debug\ComputerSystem.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\obj\Debug\ComputerSystem.exe
+C:\Users\Nikolay\Desktop\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\obj\Debug\ComputerSystem.pdb
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\bin\Debug\ComputerSystem.exe.config
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\obj\Debug\ComputerSystem.exe
+D:\Documents\Telerik Courses homeworks\High Quality Code\HQC-Exam-2014-Evening\Computers-problem\ComputerSystem\obj\Debug\ComputerSystem.pdb
