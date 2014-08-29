@@ -1,0 +1,9 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\bin\Debug\09.MySqlConnector.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\bin\Debug\09.MySqlConnector.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\bin\Debug\09.MySqlConnector.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\bin\Debug\MySql.Data.dll
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\bin\Debug\MySql.Data.Entity.dll
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\bin\Debug\MySql.Web.dll
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\obj\Debug\09.MySqlConnector.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\obj\Debug\09.MySqlConnector.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.MySqlConnector\obj\Debug\09.MySqlConnector.pdb

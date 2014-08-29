@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\13.Queue\bin\Debug\13.Queue.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\13.Queue\bin\Debug\13.Queue.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\13.Queue\bin\Debug\13.Queue.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\13.Queue\obj\Debug\13.Queue.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\13.Queue\obj\Debug\13.Queue.pdb

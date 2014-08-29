@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\01.SequenceOfNumbers\bin\Debug\01.SequenceOfNumbers.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\01.SequenceOfNumbers\bin\Debug\01.SequenceOfNumbers.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\01.SequenceOfNumbers\bin\Debug\01.SequenceOfNumbers.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\01.SequenceOfNumbers\obj\Debug\01.SequenceOfNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\01.SequenceOfNumbers\obj\Debug\01.SequenceOfNumbers.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\01.SequenceOfNumbers\obj\Debug\01.SequenceOfNumbers.pdb

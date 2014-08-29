@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\DataStructuresAlgorithms\bin\Debug\DataStructuresAlgorithms.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\DataStructuresAlgorithms\bin\Debug\DataStructuresAlgorithms.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\DataStructuresAlgorithms\bin\Debug\DataStructuresAlgorithms.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\DataStructuresAlgorithms.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\DataStructuresAlgorithms.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\DataStructuresAlgorithms\obj\Debug\DataStructuresAlgorithms.pdb

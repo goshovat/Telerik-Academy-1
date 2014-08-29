@@ -1,0 +1,10 @@
+CREATE TABLE books (
+  book_id PRIMARY KEY NOT NULL,
+  title varchar(45) NOT NULL,
+  author varchar(45) NOT NULL,
+  published_date datetime DEFAULT NULL,
+  ISBN varchar(255) DEFAULT NULL
+);
+
+INSERT INTO books 
+VALUES (1,'Harry Potter','J. K. Rowling','2000-01-01 00:00:00','1234567BS');

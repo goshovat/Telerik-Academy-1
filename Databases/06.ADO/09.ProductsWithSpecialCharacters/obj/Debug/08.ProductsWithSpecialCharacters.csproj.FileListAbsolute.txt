@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.ProductsWithSpecialCharacters\bin\Debug\09.ProductsWithSpecialCharacters.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.ProductsWithSpecialCharacters\bin\Debug\09.ProductsWithSpecialCharacters.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.ProductsWithSpecialCharacters\bin\Debug\09.ProductsWithSpecialCharacters.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.ProductsWithSpecialCharacters\obj\Debug\09.ProductsWithSpecialCharacters.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\09.ProductsWithSpecialCharacters\obj\Debug\09.ProductsWithSpecialCharacters.pdb

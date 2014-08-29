@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\01.ConstructTree\bin\Debug\01.ConstructTree.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\01.ConstructTree\obj\Debug\01.ConstructTree.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\01.ConstructTree\bin\Debug\01.ConstructTree.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\01.ConstructTree\bin\Debug\01.ConstructTree.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\01.ConstructTree\obj\Debug\01.ConstructTree.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\01.ConstructTree\obj\Debug\01.ConstructTree.pdb

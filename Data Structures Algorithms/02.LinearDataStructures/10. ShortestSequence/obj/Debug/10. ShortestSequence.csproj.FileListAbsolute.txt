@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\10. ShortestSequence\bin\Debug\_10.ShortestSequence.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\10. ShortestSequence\obj\Debug\10. ShortestSequence.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\10. ShortestSequence\bin\Debug\_10.ShortestSequence.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\10. ShortestSequence\bin\Debug\_10.ShortestSequence.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\10. ShortestSequence\obj\Debug\_10.ShortestSequence.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\10. ShortestSequence\obj\Debug\_10.ShortestSequence.pdb

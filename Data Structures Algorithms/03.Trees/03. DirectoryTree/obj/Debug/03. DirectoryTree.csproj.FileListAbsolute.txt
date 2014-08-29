@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\03. DirectoryTree\bin\Debug\_03.DirectoryTree.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\03. DirectoryTree\bin\Debug\_03.DirectoryTree.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\03. DirectoryTree\bin\Debug\_03.DirectoryTree.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\03. DirectoryTree\obj\Debug\03. DirectoryTree.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\03. DirectoryTree\obj\Debug\_03.DirectoryTree.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\03. DirectoryTree\obj\Debug\_03.DirectoryTree.pdb

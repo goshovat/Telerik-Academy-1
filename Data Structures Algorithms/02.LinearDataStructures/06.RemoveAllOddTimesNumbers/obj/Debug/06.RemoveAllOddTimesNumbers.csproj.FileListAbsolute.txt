@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\06.RemoveAllOddTimesNumbers\bin\Debug\06.RemoveAllOddTimesNumbers.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\06.RemoveAllOddTimesNumbers\bin\Debug\06.RemoveAllOddTimesNumbers.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\06.RemoveAllOddTimesNumbers\bin\Debug\06.RemoveAllOddTimesNumbers.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\06.RemoveAllOddTimesNumbers\obj\Debug\06.RemoveAllOddTimesNumbers.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\06.RemoveAllOddTimesNumbers\obj\Debug\06.RemoveAllOddTimesNumbers.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\06.RemoveAllOddTimesNumbers\obj\Debug\06.RemoveAllOddTimesNumbers.csprojResolveAssemblyReference.cache

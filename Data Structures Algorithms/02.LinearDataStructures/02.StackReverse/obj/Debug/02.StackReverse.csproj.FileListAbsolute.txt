@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\02.StackReverse\bin\Debug\02.StackReverse.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\02.StackReverse\bin\Debug\02.StackReverse.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\02.StackReverse\bin\Debug\02.StackReverse.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\02.StackReverse\obj\Debug\02.StackReverse.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\02.StackReverse\obj\Debug\02.StackReverse.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\02.StackReverse\obj\Debug\02.StackReverse.csprojResolveAssemblyReference.cache

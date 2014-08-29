@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\03.CategoriesProducts\bin\Debug\03.CategoriesProducts.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\03.CategoriesProducts\bin\Debug\03.CategoriesProducts.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\03.CategoriesProducts\bin\Debug\03.CategoriesProducts.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\03.CategoriesProducts\obj\Debug\03.CategoriesProducts.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\03.CategoriesProducts\obj\Debug\03.CategoriesProducts.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\03.CategoriesProducts\obj\Debug\03.CategoriesProducts.pdb

@@ -1,0 +1,8 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\Task1\bin\Debug\Task1.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\Task1\bin\Debug\Task1.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\Task1\bin\Debug\Task1.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\Task1\bin\Debug\Generator.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\Task1\obj\Debug\Task1.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\Task1\obj\Debug\Task1.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\01.DataStructuresAlgorithms\Task1\bin\Debug\Generator.dll

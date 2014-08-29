@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.pdb

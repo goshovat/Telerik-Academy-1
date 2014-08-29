@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\03.SortingNumbers\bin\Debug\03.SortingNumbers.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\03.SortingNumbers\obj\Debug\03.SortingNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\03.SortingNumbers\bin\Debug\03.SortingNumbers.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\03.SortingNumbers\bin\Debug\03.SortingNumbers.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\03.SortingNumbers\obj\Debug\03.SortingNumbers.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\03.SortingNumbers\obj\Debug\03.SortingNumbers.pdb

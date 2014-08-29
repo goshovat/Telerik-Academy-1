@@ -1,0 +1,9 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\01.CategoriesRows\bin\Debug\01.CategoriesRows.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\01.CategoriesRows\bin\Debug\01.CategoriesRows.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\01.CategoriesRows\bin\Debug\01.CategoriesRows.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\01.CategoriesRows\obj\Debug\01.CategoriesRows.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\01.CategoriesRows\obj\Debug\01.CategoriesRows.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\01.CategoriesRows\obj\Debug\01.CategoriesRows.pdb
+D:\Documents\Telerik Courses homeworks\Databases\06.ADO\01.CategoriesRows\bin\Debug\01.CategoriesRows.exe.config
+D:\Documents\Telerik Courses homeworks\Databases\06.ADO\01.CategoriesRows\obj\Debug\01.CategoriesRows.exe
+D:\Documents\Telerik Courses homeworks\Databases\06.ADO\01.CategoriesRows\obj\Debug\01.CategoriesRows.pdb

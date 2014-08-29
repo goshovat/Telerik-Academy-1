@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\12.Stack\bin\Debug\12.Stack.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\12.Stack\bin\Debug\12.Stack.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\12.Stack\bin\Debug\12.Stack.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\12.Stack\obj\Debug\12.Stack.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\12.Stack\obj\Debug\12.Stack.pdb

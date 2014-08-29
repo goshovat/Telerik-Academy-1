@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\02.DirectoryTraverserBFS\bin\Debug\02.DirectoryTraverserBFS.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\02.DirectoryTraverserBFS\bin\Debug\02.DirectoryTraverserBFS.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\02.DirectoryTraverserBFS\bin\Debug\02.DirectoryTraverserBFS.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\02.DirectoryTraverserBFS\obj\Debug\02.DirectoryTraverserBFS.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\03.Trees\02.DirectoryTraverserBFS\obj\Debug\02.DirectoryTraverserBFS.pdb

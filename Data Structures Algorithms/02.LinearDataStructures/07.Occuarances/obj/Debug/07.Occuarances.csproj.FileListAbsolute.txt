@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\07.Occuarances\bin\Debug\07.Occuarances.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\07.Occuarances\bin\Debug\07.Occuarances.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\07.Occuarances\bin\Debug\07.Occuarances.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\07.Occuarances\obj\Debug\07.Occuarances.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\07.Occuarances\obj\Debug\07.Occuarances.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\07.Occuarances\obj\Debug\07.Occuarances.pdb

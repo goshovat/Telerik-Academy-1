@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\09.RecurrentSequence\bin\Debug\09.RecurrentSequence.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\09.RecurrentSequence\bin\Debug\09.RecurrentSequence.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\09.RecurrentSequence\bin\Debug\09.RecurrentSequence.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\09.RecurrentSequence\obj\Debug\09.RecurrentSequence.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\09.RecurrentSequence\obj\Debug\09.RecurrentSequence.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\02.LinearDataStructures\09.RecurrentSequence\obj\Debug\09.RecurrentSequence.pdb

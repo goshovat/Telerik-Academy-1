@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\08.ExcelAppender\bin\Debug\08.ExcelAppender.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\08.ExcelAppender\bin\Debug\08.ExcelAppender.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\08.ExcelAppender\bin\Debug\08.ExcelAppender.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\08.ExcelAppender\obj\Debug\08.ExcelAppender.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\06.ADO\08.ExcelAppender\obj\Debug\08.ExcelAppender.pdb
