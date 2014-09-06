@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\01.CreateTableATM\bin\Debug\01.CreateTableATM.exe.config
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\01.CreateTableATM\obj\Debug\01.CreateTableATM.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\01.CreateTableATM\bin\Debug\01.CreateTableATM.exe
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\01.CreateTableATM\bin\Debug\01.CreateTableATM.pdb
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\01.CreateTableATM\obj\Debug\01.CreateTableATM.exe
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\01.CreateTableATM\obj\Debug\01.CreateTableATM.pdb

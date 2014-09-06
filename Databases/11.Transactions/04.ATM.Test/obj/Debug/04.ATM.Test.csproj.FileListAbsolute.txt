@@ -1,0 +1,9 @@
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\bin\Debug\04.ATM.Test.dll
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\bin\Debug\04.ATM.Test.pdb
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\bin\Debug\02.RetrieveingMoney.exe
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\bin\Debug\03.TransactionsHistory.exe
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\bin\Debug\02.RetrieveingMoney.pdb
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\bin\Debug\03.TransactionsHistory.pdb
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\obj\Debug\04.ATM.Test.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\obj\Debug\04.ATM.Test.dll
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\04.ATM.Test\obj\Debug\04.ATM.Test.pdb

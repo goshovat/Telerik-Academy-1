@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Chat.Data" GeneratedClassName="ChatSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ChatConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mongodb://TelerikAcademy:123456@ds045077.mongolab.com:45077/chatdb</Value>
+    </Setting>
+    <Setting Name="DatabaseName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chatdb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

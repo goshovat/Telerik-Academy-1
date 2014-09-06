@@ -1,0 +1,5 @@
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

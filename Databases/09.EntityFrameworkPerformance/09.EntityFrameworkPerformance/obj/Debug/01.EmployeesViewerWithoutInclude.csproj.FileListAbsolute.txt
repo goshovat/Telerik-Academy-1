@@ -1,0 +1,11 @@
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\09.EntityFrameworkPerformance.exe.config
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\09.EntityFrameworkPerformance.exe
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\09.EntityFrameworkPerformance.pdb
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\EntityFramework.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\TelerikAcademy.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\TelerikAcademy.pdb
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\EntityFramework.xml
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\obj\Debug\09.EntityFrameworkPerformance.exe
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\09.EntityFrameworkPerformance\obj\Debug\09.EntityFrameworkPerformance.pdb

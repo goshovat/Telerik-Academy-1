@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\02.RetrieveingMoney\bin\Debug\02.RetrieveingMoney.exe.config
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\02.RetrieveingMoney\bin\Debug\02.RetrieveingMoney.exe
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\02.RetrieveingMoney\bin\Debug\02.RetrieveingMoney.pdb
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\02.RetrieveingMoney\obj\Debug\02.RetrieveingMoney.exe
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\02.RetrieveingMoney\obj\Debug\02.RetrieveingMoney.pdb
+D:\Documents\Telerik Courses homeworks\Databases\11.Transactions\02.RetrieveingMoney\obj\Debug\02.RetrievingMoney.csprojResolveAssemblyReference.cache

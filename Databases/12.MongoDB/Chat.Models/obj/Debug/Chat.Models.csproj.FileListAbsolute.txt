@@ -1,0 +1,8 @@
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.Models\bin\Debug\Chat.Models.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.Models\bin\Debug\Chat.Models.pdb
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.Models\bin\Debug\MongoDB.Bson.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.Models\bin\Debug\MongoDB.Driver.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.Models\bin\Debug\MongoDB.Bson.xml
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.Models\bin\Debug\MongoDB.Driver.xml
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.Models\obj\Debug\Chat.Models.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.Models\obj\Debug\Chat.Models.pdb

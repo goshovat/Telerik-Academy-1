@@ -1,0 +1,11 @@
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\02.EmployeesFromSofia.exe.config
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\02.EmployeesFromSofia.exe
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\02.EmployeesFromSofia.pdb
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\EntityFramework.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\TelerikAcademy.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\TelerikAcademy.pdb
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\EntityFramework.xml
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\obj\Debug\02.EmployeesFromSofia.exe
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\02.EmployeesFromSofia\obj\Debug\02.EmployeesFromSofia.pdb

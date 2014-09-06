@@ -1,0 +1,16 @@
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.UI.exe.config
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.UI.exe
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.UI.pdb
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\obj\Debug\Chat.UI.exe
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\obj\Debug\Chat.UI.pdb
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.Controler.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.Models.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.Data.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\MongoDB.Driver.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\MongoDB.Bson.dll
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.Controler.pdb
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.Models.pdb
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\Chat.Data.pdb
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\MongoDB.Driver.xml
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\bin\Debug\MongoDB.Bson.xml
+D:\Documents\Telerik Courses homeworks\Databases\12.MongoDB\Chat.UI\obj\Debug\Chat.UI.csprojResolveAssemblyReference.cache

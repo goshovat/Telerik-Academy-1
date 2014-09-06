@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\03.WordsCounter\bin\Debug\03.WordsCounter.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\03.WordsCounter\bin\Debug\03.WordsCounter.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\03.WordsCounter\bin\Debug\03.WordsCounter.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\03.WordsCounter\obj\Debug\03.WordsCounter.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\03.WordsCounter\obj\Debug\03.WordsCounter.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\03.WordsCounter\obj\Debug\03.WordsCounter.pdb

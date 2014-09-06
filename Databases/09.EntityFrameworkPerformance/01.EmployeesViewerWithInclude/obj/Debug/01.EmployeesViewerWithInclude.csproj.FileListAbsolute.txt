@@ -1,0 +1,11 @@
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\01.EmployeesViewerWithInclude.exe.config
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\01.EmployeesViewerWithInclude.exe
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\01.EmployeesViewerWithInclude.pdb
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\EntityFramework.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\TelerikAcademy.dll
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\TelerikAcademy.pdb
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\EntityFramework.xml
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\obj\Debug\01.EmployeesViewerWithInclude.exe
+D:\Documents\Telerik Courses homeworks\Databases\09.EntityFrameworkPerformance\01.EmployeesViewerWithInclude\obj\Debug\01.EmployeesViewerWithInclude.pdb

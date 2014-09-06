@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\01.OccurrencesCounter\bin\Debug\01.OccurrencesCounter.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\01.OccurrencesCounter\bin\Debug\01.OccurrencesCounter.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\01.OccurrencesCounter\bin\Debug\01.OccurrencesCounter.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\01.OccurrencesCounter\obj\Debug\01.OccurrencesCounter.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\01.OccurrencesCounter\obj\Debug\01.OccurrencesCounter.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\01.OccurrencesCounter\obj\Debug\01.OccurrencesCounter.pdb

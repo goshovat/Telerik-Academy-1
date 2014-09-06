@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\04.HashTable\bin\Debug\04.HashTable.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\04.HashTable\obj\Debug\04.HashTable.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\06.PhoneNumbers\bin\Debug\06.PhoneNumbers.exe.config
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\06.PhoneNumbers\bin\Debug\06.PhoneNumbers.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\06.PhoneNumbers\bin\Debug\06.PhoneNumbers.pdb
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\06.PhoneNumbers\obj\Debug\06.PhoneNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\06.PhoneNumbers\obj\Debug\06.PhoneNumbers.exe
+D:\Documents\Telerik Courses homeworks\Data Structures Algorithms\04.HashTablesAndSets\06.PhoneNumbers\obj\Debug\06.PhoneNumbers.pdb

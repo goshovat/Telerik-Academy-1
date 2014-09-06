@@ -1,0 +1,14 @@
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\StudentSystem.Console.exe.config
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\StudentSystem.Console.exe
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\StudentSystem.Console.pdb
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\EntityFramework.dll
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\StudentSystem.Data.dll
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\StudentSystem.Models.dll
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\StudentSystem.Data.pdb
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\StudentSystem.Models.pdb
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\EntityFramework.xml
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\obj\Debug\StudentSystem.Console.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\obj\Debug\StudentSystem.Console.exe
+D:\Documents\Telerik Courses homeworks\Databases\08.EntityFrameworkCodeFirst\StudentSystem.Console\obj\Debug\StudentSystem.Console.pdb
