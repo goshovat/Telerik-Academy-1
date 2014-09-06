@@ -6,6 +6,8 @@
     using System.Windows.Threading;
 
     using Chat.Controler;
+    using System.Collections.Generic;
+    using Chat.Models;
 
     /// <summary>
     /// Interaction logic for ChatRoom.xaml
@@ -13,6 +15,8 @@
     public partial class ChatRoom : UserControl
     {
         private int lastMessageNumber = 0;
+        private bool showAllPosts = true;
+        private bool changedState = false;
 
         public ChatRoom()
         {
@@ -24,17 +28,28 @@
         {
             var messageText = this.txtMessage.Text;
 
-            ChatControler.Controller.InsertMessage(messageText);
+            if (string.IsNullOrWhiteSpace(messageText))
+            {
+                MessageBox.Show("The message cannot be null or whitespace!",
+                   "Error",
+                   MessageBoxButton.OK,
+                   MessageBoxImage.Error);
+            }
+            else
+            {
+                ChatControler.Controller.InsertMessage(messageText);
 
-            this.txtMessage.Text = string.Empty;
+                this.txtMessage.Text = string.Empty;
 
-            this.lbMessages.Items.Clear();
-            FillMessages();
+                this.lbMessages.Items.Clear();
+                FillMessages();
+            }
         }
 
         private void FillMessages()
         {
-            var messages = ChatControler.Controller.GetAllMessages();
+            var messages = GetMessage();
+
             var usernamePattern = "Username: {0}";
             var messagePattern = "Message: {0}";
             var datePattern = "Date: {0}";
@@ -77,12 +92,49 @@
 
         private void OnTimedEvent(object sender, EventArgs e)
         {
-            var messages = ChatControler.Controller.GetAllMessages();
-            if (messages.Count != lastMessageNumber)
+            var messages = GetMessage();
+            
+            if ((messages.Count != lastMessageNumber) || this.changedState)
             {
                 this.lbMessages.Items.Clear();
                 FillMessages();
+                this.changedState = false;
             }
         }
+
+        private List<Message> GetMessage()
+        {
+            List<Message> messages;
+
+            if (showAllPosts)
+            {
+                messages = ChatControler.Controller.GetAllMessages();
+            }
+            else
+            {
+                messages = ChatControler.Controller.GetAllMessagesSinceUserLogged();
+            }
+
+            return messages;
+        }
+
+        private void btnAllPosts_Click(object sender, RoutedEventArgs e)
+        {
+            this.showAllPosts = true;
+        }
+
+        private void btnSinceLogged_Click(object sender, RoutedEventArgs e)
+        {
+            this.showAllPosts = false;
+        }
+
+        private void dbPostFilter_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var stateBefore = this.showAllPosts;
+            this.showAllPosts = this.dbPostFilter.SelectedIndex == 0 ? true : false;
+            var stateAfter = this.showAllPosts;
+
+            this.changedState = stateBefore ^ stateAfter;
+         }
     }
 }

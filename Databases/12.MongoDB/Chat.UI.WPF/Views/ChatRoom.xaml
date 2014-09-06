@@ -1,14 +1,26 @@
-﻿<UserControl x:Class="Chat.UI.WPF.Views.ChatRoom"
+﻿<UserControl
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="Chat.UI.WPF.Views.ChatRoom" 
              mc:Ignorable="d" 
              d:DesignHeight="500" d:DesignWidth="400">
     <Canvas>
-        <ListBox x:Name="lbMessages" Height="316" Canvas.Top="104" Width="380" Canvas.Left="10" BorderBrush="#FFFFDD04" ScrollViewer.VerticalScrollBarVisibility="Auto" UseLayoutRounding="True" ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
+        <ListBox x:Name="lbMessages" Height="282" Canvas.Top="138" Width="380" Canvas.Left="10" BorderBrush="#FFFFDD04" ScrollViewer.VerticalScrollBarVisibility="Auto" UseLayoutRounding="True" ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
         <TextBox x:Name="txtMessage" Height="54" Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="430" Width="309" ToolTip="Enter message to the chat" VerticalScrollBarVisibility="Auto" TabIndex="1"/>
         <Button x:Name="btnAdd" Content="Send" Canvas.Left="327" Canvas.Top="430" Width="63" Height="54" FontSize="20" Click="btnAdd_Click" TabIndex="2"/>
+        <ComboBox x:Name="dbPostFilter" Canvas.Left="127" Canvas.Top="105" Width="194" SelectedIndex="0" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="15" SelectionChanged="dbPostFilter_SelectionChanged">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFB9B8B8" Offset="0.008"/>
+                    <GradientStop Color="#FF877676" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <TextBlock x:Name="txtAllPosts" Text="All posts" HorizontalAlignment="Center" VerticalAlignment="Center" Width="184"/>
+            <TextBlock x:Name="txtSinceLogged" Text="Since logged" Width="184"/>
+        </ComboBox>
+        <Label Content="Show:" Canvas.Left="67" Canvas.Top="103" Width="55" FontSize="15" Foreground="White"/>
 
     </Canvas>
 </UserControl>

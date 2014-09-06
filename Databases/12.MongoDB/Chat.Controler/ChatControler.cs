@@ -51,6 +51,8 @@
             }
         }
 
+        public DateTime UserLoggedTime { get; set; }
+
         public void InsertMessage(string text)
         {
             var messages = this.chatDB.Database.GetCollection<Message>("Messages");
@@ -74,6 +76,19 @@
 
             var allMessages = messages.FindAll()
                                       .SetSortOrder(SortBy.Ascending("Date")).ToList();
+
+            return allMessages;
+        }
+
+        public List<Message> GetAllMessagesSinceUserLogged()
+        {
+            var messages = this.chatDB.Database.GetCollection<Message>("Messages");
+
+            var query = Query<Message>.Where(m => m.Date > UserLoggedTime);
+
+            var allMessages = messages.Find(query)
+                                      .OrderBy(m => m.Date)
+                                      .ToList();
 
             return allMessages;
         }

@@ -7,9 +7,13 @@
     public interface IChatControler
     {    
         List<Message> GetAllMessages();
-        
+
+        List<Message> GetAllMessagesSinceUserLogged();
+
         void InsertMessage(string text);
         
         User LoggedUser { get; }
+
+        DateTime UserLoggedTime { get; set; }
     }
 }
